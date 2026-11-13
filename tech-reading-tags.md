@@ -6,18 +6,18 @@ Every tag on [Tech Reading](tech-reading.md) with the posts under it. 67 tags.
 
 ## rust (24)
 
-- [Rayon: data parallelism in Rust](https://smallcultfollowing.com/babysteps/blog/2015-12-18/rayon-data-parallelism-in-rust/) — smallcultfollowing.com · 2026-11-13
+- [Rayon: data parallelism in Rust](https://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/) — smallcultfollowing.com · 2026-11-13
 - [Rust features in the future](https://lwn.net/Articles/1099606/) — lwn.net · 2026-11-07
-- [This Week in Rust #676](https://this-week-in-rust.org/blog/2026-11-04/this-week-in-rust-676/) — this-week-in-rust.org · 2026-11-06
+- [This Week in Rust #676](https://this-week-in-rust.org/blog/2026/11/04/this-week-in-rust-676/) — this-week-in-rust.org · 2026-11-06
 - [What distributed systems and end-to-end encrypted apps have in common? CRDTs and Rust!](https://kerkour.com/rust-crdt-love) — kerkour.com · 2026-11-03
-- [This Week in Rust #675](https://this-week-in-rust.org/blog/2026-10-28/this-week-in-rust-675/) — this-week-in-rust.org · 2026-10-29
-- [This Week in Rust #674](https://this-week-in-rust.org/blog/2026-10-21/this-week-in-rust-674/) — this-week-in-rust.org · 2026-10-23
+- [This Week in Rust #675](https://this-week-in-rust.org/blog/2026/10/28/this-week-in-rust-675/) — this-week-in-rust.org · 2026-10-29
+- [This Week in Rust #674](https://this-week-in-rust.org/blog/2026/10/21/this-week-in-rust-674/) — this-week-in-rust.org · 2026-10-23
 - [Cloudflare is rewriting everything in Rust](https://kerkour.com/rust-at-cloudflare) — kerkour.com · 2026-10-23
 - [ManimGX: Manim API on a Rust GPU Core, 90x Faster?](https://explainx.ai/blog/manimgx-agent-animation-engine-rust-gpu-guide-2026) — explainx.ai · 2026-10-18
 - [How to Profile Rust Performance using Grafana and Prometheus](https://hotpath.rs/blog/rust-performance-grafana) — hotpath.rs · 2026-10-17
-- [This Week in Rust #673](https://this-week-in-rust.org/blog/2026-10-14/this-week-in-rust-673/) — this-week-in-rust.org · 2026-10-16
+- [This Week in Rust #673](https://this-week-in-rust.org/blog/2026/10/14/this-week-in-rust-673/) — this-week-in-rust.org · 2026-10-16
 - [Rewriting OTTO in Rust: oxidizing our codebase, one service at a time](https://otto.de/jobs/en/blogs/techblog/rust-migration-lambdas-microservices) — otto.de · 2026-10-16
-- [All code will converge on Rust](https://mainmatter.com/blog/2026-10-08/all-code-will-converge-on-rust) — mainmatter.com · 2026-10-16
+- [All code will converge on Rust](https://mainmatter.com/blog/2026/10/08/all-code-will-converge-on-rust/) — mainmatter.com · 2026-10-16
 - [Lies, damned lies, and Rust in the TechEmpower Web Framework Benchmarks](https://kerkour.com/rust-techempower-benchmarks) — kerkour.com · 2026-10-10
 - [A Fond Farewell To Three Rust Foundation Colleagues](https://rustfoundation.org/media/a-fond-farewell-to-three-rust-foundation-colleagues) — rustfoundation.org · 2026-10-08
 - [Rust Trends #84: Google Puts Agents on the Rust Rewrite](https://rust-trends.com/newsletter/google-puts-agents-on-the-rust-rewrite) — rust-trends.com · 2026-10-08
@@ -49,11 +49,11 @@ Every tag on [Tech Reading](tech-reading.md) with the posts under it. 67 tags.
 ## newsletter (11)
 
 - [Go Weekly #622: Wails 3 arrives after nearly four years](https://golangweekly.com/issues/622) — golangweekly.com · 2026-11-07
-- [This Week in Rust #676](https://this-week-in-rust.org/blog/2026-11-04/this-week-in-rust-676/) — this-week-in-rust.org · 2026-11-06
-- [This Week in Rust #675](https://this-week-in-rust.org/blog/2026-10-28/this-week-in-rust-675/) — this-week-in-rust.org · 2026-10-29
-- [This Week in Rust #674](https://this-week-in-rust.org/blog/2026-10-21/this-week-in-rust-674/) — this-week-in-rust.org · 2026-10-23
+- [This Week in Rust #676](https://this-week-in-rust.org/blog/2026/11/04/this-week-in-rust-676/) — this-week-in-rust.org · 2026-11-06
+- [This Week in Rust #675](https://this-week-in-rust.org/blog/2026/10/28/this-week-in-rust-675/) — this-week-in-rust.org · 2026-10-29
+- [This Week in Rust #674](https://this-week-in-rust.org/blog/2026/10/21/this-week-in-rust-674/) — this-week-in-rust.org · 2026-10-23
 - [Go Weekly #621: Why Go had to hardcode a block on broken certs](https://golangweekly.com/issues/621) — golangweekly.com · 2026-10-23
-- [This Week in Rust #673](https://this-week-in-rust.org/blog/2026-10-14/this-week-in-rust-673/) — this-week-in-rust.org · 2026-10-16
+- [This Week in Rust #673](https://this-week-in-rust.org/blog/2026/10/14/this-week-in-rust-673/) — this-week-in-rust.org · 2026-10-16
 - [Rust Trends #84: Google Puts Agents on the Rust Rewrite](https://rust-trends.com/newsletter/google-puts-agents-on-the-rust-rewrite) — rust-trends.com · 2026-10-08
 - [Postgres Weekly #666: Postgres 19's bumpy road to release](https://postgresweekly.com/issues/666) — postgresweekly.com · 2026-09-27
 - [Go Weekly #618: A native IDE written in Go goes open source](https://golangweekly.com/issues/618) — golangweekly.com · 2026-09-19
@@ -67,20 +67,20 @@ Every tag on [Tech Reading](tech-reading.md) with the posts under it. 67 tags.
 - [connect-go v2 is here](https://buf.build/blog/connect-go-v2) — buf.build · 2026-10-10
 - [OpenTofu v1.13.0](https://opentofu.org/blog/opentofu-1-13-0) — opentofu.org · 2026-10-09
 - [Rune is now open source](https://rune.build/blog/rune-is-now-open-source) — rune.build · 2026-09-19
-- [Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta](https://kubernetes.io/blog/2026-09-15/kubernetes-v1-37-pod-level-resource-managers-beta) — kubernetes.io · 2026-09-17
+- [Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta](https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/) — kubernetes.io · 2026-09-17
 - [Vivaldi 8.2: we've done the math, and this is the browser you deserve](https://vivaldi.com/blog/vivaldi-on-desktop-8-2) — vivaldi.com · 2026-09-10
-- [Kubernetes v1.37: Metrics API graduates to stable](https://kubernetes.io/blog/2026-08-27/kubernetes-v1-37-metrics-api-ga) — kubernetes.io · 2026-08-28
+- [Kubernetes v1.37: Metrics API graduates to stable](https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/) — kubernetes.io · 2026-08-28
 - [What's new in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47) — flutter.dev · 2026-08-18
 
 ## kubernetes (7)
 
-- [The Shift to cgroup v2 in Kubernetes: What You Need to Know](https://kubernetes.io/blog/2026-10-06/kubernetes-cgroups-v2-shift) — kubernetes.io · 2026-10-07
-- [Spotlight on SIG Apps](https://kubernetes.io/blog/2026-09-22/sig-apps-spotlight) — kubernetes.io · 2026-09-29
+- [The Shift to cgroup v2 in Kubernetes: What You Need to Know](https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/) — kubernetes.io · 2026-10-07
+- [Spotlight on SIG Apps](https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/) — kubernetes.io · 2026-09-29
 - [How to Build an Internal Developer Platform: Backstage, ArgoCD, and Crossplane](https://freecodecamp.org/news/how-to-build-an-internal-developer-platform-a-complete-guide-to-backstage-argocd-and-crossplane) — freecodecamp.org · 2026-09-28
-- [Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)](https://kubernetes.io/blog/2026-09-21/kubernetes-v1-37-pvc-last-used-time) — kubernetes.io · 2026-09-22
-- [Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta](https://kubernetes.io/blog/2026-09-15/kubernetes-v1-37-pod-level-resource-managers-beta) — kubernetes.io · 2026-09-17
-- [Kubernetes v1.34: Pod Level Resources graduated to Beta](https://kubernetes.io/blog/2025-09-22/kubernetes-v1-34-pod-level-resources) — kubernetes.io · 2026-09-17
-- [Kubernetes v1.37: Metrics API graduates to stable](https://kubernetes.io/blog/2026-08-27/kubernetes-v1-37-metrics-api-ga) — kubernetes.io · 2026-08-28
+- [Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)](https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/) — kubernetes.io · 2026-09-22
+- [Kubernetes v1.37: Pod-Level Resource Managers graduated to Beta](https://kubernetes.io/blog/2026/09/15/kubernetes-v1-37-pod-level-resource-managers-beta/) — kubernetes.io · 2026-09-17
+- [Kubernetes v1.34: Pod Level Resources graduated to Beta](https://kubernetes.io/blog/2025/09/22/kubernetes-v1-34-pod-level-resources/) — kubernetes.io · 2026-09-17
+- [Kubernetes v1.37: Metrics API graduates to stable](https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/) — kubernetes.io · 2026-08-28
 
 ## performance (5)
 
@@ -154,7 +154,7 @@ Every tag on [Tech Reading](tech-reading.md) with the posts under it. 67 tags.
 ## community (2)
 
 - [A Fond Farewell To Three Rust Foundation Colleagues](https://rustfoundation.org/media/a-fond-farewell-to-three-rust-foundation-colleagues) — rustfoundation.org · 2026-10-08
-- [Spotlight on SIG Apps](https://kubernetes.io/blog/2026-09-22/sig-apps-spotlight) — kubernetes.io · 2026-09-29
+- [Spotlight on SIG Apps](https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/) — kubernetes.io · 2026-09-29
 
 ## concurrency (2)
 
@@ -174,16 +174,16 @@ Every tag on [Tech Reading](tech-reading.md) with the posts under it. 67 tags.
 ## observability (2)
 
 - [How to Profile Rust Performance using Grafana and Prometheus](https://hotpath.rs/blog/rust-performance-grafana) — hotpath.rs · 2026-10-17
-- [Kubernetes v1.37: Metrics API graduates to stable](https://kubernetes.io/blog/2026-08-27/kubernetes-v1-37-metrics-api-ga) — kubernetes.io · 2026-08-28
+- [Kubernetes v1.37: Metrics API graduates to stable](https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/) — kubernetes.io · 2026-08-28
 
 ## open-source (2)
 
-- [Rayon: data parallelism in Rust](https://smallcultfollowing.com/babysteps/blog/2015-12-18/rayon-data-parallelism-in-rust/) — smallcultfollowing.com · 2026-11-13
+- [Rayon: data parallelism in Rust](https://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/) — smallcultfollowing.com · 2026-11-13
 - [Rune is now open source](https://rune.build/blog/rune-is-now-open-source) — rune.build · 2026-09-19
 
 ## opinion (2)
 
-- [All code will converge on Rust](https://mainmatter.com/blog/2026-10-08/all-code-will-converge-on-rust) — mainmatter.com · 2026-10-16
+- [All code will converge on Rust](https://mainmatter.com/blog/2026/10/08/all-code-will-converge-on-rust/) — mainmatter.com · 2026-10-16
 - [Don't call yourself an artisanal programmer](https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer) — purplesyringa.moe · 2026-09-15
 
 ## programming (2)
@@ -194,7 +194,7 @@ Every tag on [Tech Reading](tech-reading.md) with the posts under it. 67 tags.
 ## storage (2)
 
 - [You can run git on object storage if you re-make packfiles](https://tigrisdata.com/blog/objgit-packfiles) — tigrisdata.com · 2026-10-12
-- [Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)](https://kubernetes.io/blog/2026-09-21/kubernetes-v1-37-pvc-last-used-time) — kubernetes.io · 2026-09-22
+- [Kubernetes v1.37: Tracking When a PersistentVolumeClaim Was Last Used (Beta)](https://kubernetes.io/blog/2026/09/21/kubernetes-v1-37-pvc-last-used-time/) — kubernetes.io · 2026-09-22
 
 ## ai (1)
 
@@ -302,7 +302,7 @@ Every tag on [Tech Reading](tech-reading.md) with the posts under it. 67 tags.
 
 ## linux (1)
 
-- [The Shift to cgroup v2 in Kubernetes: What You Need to Know](https://kubernetes.io/blog/2026-10-06/kubernetes-cgroups-v2-shift) — kubernetes.io · 2026-10-07
+- [The Shift to cgroup v2 in Kubernetes: What You Need to Know](https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/) — kubernetes.io · 2026-10-07
 
 ## migration (1)
 
@@ -318,7 +318,7 @@ Every tag on [Tech Reading](tech-reading.md) with the posts under it. 67 tags.
 
 ## parallelism (1)
 
-- [Rayon: data parallelism in Rust](https://smallcultfollowing.com/babysteps/blog/2015-12-18/rayon-data-parallelism-in-rust/) — smallcultfollowing.com · 2026-11-13
+- [Rayon: data parallelism in Rust](https://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/) — smallcultfollowing.com · 2026-11-13
 
 ## platform-engineering (1)
 
