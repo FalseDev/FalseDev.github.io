@@ -2,12 +2,6 @@
 title: Science Channels
 ---
 
-The science channels I subscribe to, kept apart from [My Resources](my-resources.md)
-because that page stays focused on software, hardware and the tools around them. Same
-selection method as everywhere else: channel description plus its most recent uploads,
-so anything that drifted into pure spectacle or general-knowledge trivia stayed off this
-list. Still excluded from the main page, listed in full in the local review file.
-
 # Astronomy & space
 
 - [Epic Spaceman](https://www.youtube.com/channel/UClYDoTmBdnafBCHhnUCqvtw) — space and ocean explainers, first-person stunts
@@ -31,7 +25,7 @@ list. Still excluded from the main page, listed in full in the local review file
 # Life, nature and microscopy
 
 - [AsapSCIENCE](https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA) — pop biology, drawn out by hand
-- [CloseIntel](https://www.youtube.com/channel/UCdpHK9wCO75Pw7kxTfAxoEg) — semiconductor and datacenter dieshots, now mostly microscopy
+- [CloseIntel](https://www.youtube.com/channel/UCdpHK9wCO75Pw7kxTfAxoEg) — insects, ticks and bacteria under a microscope
 - [Domain of Science](https://www.youtube.com/channel/UCxqAWLTk1CmBvZFPzeZMd9A) — all of human knowledge, one diagram at a time
 - [Journey to the Microcosmos](https://www.youtube.com/channel/UCBbnbBWJtwsf0jLGUwX5Q3g) — microscopic life, narrated (series ended 2024)
 - [MinuteEarth](https://www.youtube.com/channel/UCeiYXex_fwgYDonaTcSIk6w) — earth and ecology explainers
