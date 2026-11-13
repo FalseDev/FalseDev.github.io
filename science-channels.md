@@ -1,5 +1,6 @@
 ---
 title: Science Channels
+meta: assets/channels.json
 ---
 
 # Astronomy & space

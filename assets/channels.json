@@ -1,0 +1,1897 @@
+{
+ "https://this-week-in-rust.org/rss.xml": {
+  "t": [
+   "rust",
+   "newsletter"
+  ]
+ },
+ "https://weeklyrust.substack.com/feed": {
+  "t": [
+   "rust",
+   "newsletter"
+  ]
+ },
+ "https://fasterthanli.me/index.xml#feed": {
+  "t": [
+   "rust",
+   "systems"
+  ]
+ },
+ "https://kobzol.github.io/feed.xml": {
+  "t": [
+   "rust"
+  ]
+ },
+ "https://kerkour.com/feed.xml": {
+  "t": [
+   "security",
+   "web"
+  ]
+ },
+ "https://blog.goose.love/index.xml#feed": {
+  "t": [
+   "rust",
+   "databases"
+  ]
+ },
+ "https://purplesyringa.moe/blog/feed.rss": {
+  "t": [
+   "systems",
+   "programming"
+  ]
+ },
+ "https://golangweekly.com/rss/": {
+  "t": [
+   "go",
+   "newsletter"
+  ]
+ },
+ "https://cprss.s3.amazonaws.com/postgresweekly.com.xml": {
+  "t": [
+   "databases",
+   "newsletter"
+  ]
+ },
+ "https://postgres.ai/blog/rss.xml": {
+  "t": [
+   "databases",
+   "performance"
+  ]
+ },
+ "https://hakibenita.com/feeds/all.atom.xml": {
+  "t": [
+   "databases",
+   "performance"
+  ]
+ },
+ "https://www.cs.cmu.edu/~pavlo//blog/feed.xml": {
+  "t": [
+   "databases",
+   "papers"
+  ]
+ },
+ "https://blog.cloudflare.com/rss": {
+  "t": [
+   "networking",
+   "web"
+  ]
+ },
+ "https://kubernetes.io/feed.xml": {
+  "t": [
+   "devops",
+   "systems"
+  ]
+ },
+ "https://netflixtechblog.com/feed": {
+  "t": [
+   "systems",
+   "performance"
+  ]
+ },
+ "https://xeiaso.net/blog.rss": {
+  "t": [
+   "web",
+   "linux"
+  ]
+ },
+ "https://jg.gg/feed/": {
+  "t": [
+   "career",
+   "web"
+  ]
+ },
+ "https://jeremymorrell.dev/rss.xml": {
+  "t": [
+   "web",
+   "projects"
+  ]
+ },
+ "https://sdr-podcast.com/podcast-feed-m4a.xml": {
+  "t": [
+   "podcast",
+   "papers"
+  ]
+ },
+ "https://cpu.land": {
+  "t": [
+   "systems",
+   "courses",
+   "c-cpp"
+  ]
+ },
+ "https://cs50.harvard.edu/": {
+  "t": [
+   "courses",
+   "programming"
+  ]
+ },
+ "UC4QZ_LsYcvcq7qOsOhpAX4A": {
+  "t": [
+   "news",
+   "commentary"
+  ],
+  "d": "Tech-industry analysis and company retrospectives"
+ },
+ "UCRjSO-juFtngAeJGJRMdIZw": {
+  "t": [
+   "ai",
+   "projects",
+   "embedded"
+  ],
+  "d": "AI, reverse engineering and Raspberry Pi projects explained"
+ },
+ "UCIlU5KDHKFSaebYviKfOidw": {
+  "t": [
+   "news",
+   "ai"
+  ],
+  "d": "Long-form essays on tech, AI and the people running it"
+ },
+ "UCRXRbi80k0_vcIfgpOSerTg": {
+  "t": [
+   "ai",
+   "commentary"
+  ],
+  "d": "AI-industry analysis: claims, safety and the money behind it"
+ },
+ "UCHvDhwNuq-h2hZQRR6BwbLQ": {
+  "t": [
+   "explains",
+   "hardware"
+  ],
+  "d": "Short explainers of everyday engineering details"
+ },
+ "UC4xKdmAXFh4ACyhpiQ_3qBw": {
+  "t": [
+   "news",
+   "career"
+  ],
+  "d": "Ex-Google engineer on tech news, crypto and career takes"
+ },
+ "UCeeFfhMcJa1kjtfZAGskOCA": {
+  "t": [
+   "news"
+  ],
+  "d": "LTT's five-minute daily roundup of tech headlines"
+ },
+ "UC0vBXGSyV14uvJ4hECDOl0Q": {
+  "t": [
+   "news",
+   "explains"
+  ],
+  "d": "Fast explainers of hardware and consumer-tech questions"
+ },
+ "UCst-PM5gRep0iCpCbGMf9LA": {
+  "t": [
+   "news",
+   "reviews"
+  ],
+  "d": "UK phone and gadget news, first impressions and leaks"
+ },
+ "UCRG_N2uO405WO4P3Ruef9NA": {
+  "t": [
+   "news"
+  ],
+  "d": "Weekly tech recap with a critical, consumer-rights angle"
+ },
+ "UCjr2bPAyPV7t35MvcgT3W8Q": {
+  "t": [
+   "news",
+   "commentary"
+  ],
+  "d": "Commentary on tech culture and internet politics"
+ },
+ "UCHQDjDDW8w2RieO-IuqYlyg": {
+  "t": [
+   "hardware",
+   "news"
+  ],
+  "d": "Vendor channel: chips, Instinct accelerators and developer kits"
+ },
+ "UCvpfclapgcuJo0M_x65pfRw": {
+  "t": [
+   "news",
+   "reviews"
+  ],
+  "d": "Phone and Apple news, guides and honest reviews"
+ },
+ "UC06HVrkOL33D5lLnCPjr6NQ": {
+  "t": [
+   "hardware",
+   "explains"
+  ],
+  "d": "Chip design, semiconductors and how fabs work"
+ },
+ "UCiSIL42pQRpc-8JNiYDFyzQ": {
+  "t": [
+   "graphics",
+   "programming"
+  ],
+  "d": "Graphics programming and rendering devlogs"
+ },
+ "UC_0CVCfC_3iuHqmyClu59Uw": {
+  "t": [
+   "reviews"
+  ],
+  "d": "Budget-phone reviews and value-for-money verdicts"
+ },
+ "UCkK4Tzb9ieuAhcyWUZnLBBQ": {
+  "t": [
+   "news",
+   "hardware"
+  ],
+  "d": "GPU and CPU launch news, market analysis"
+ },
+ "UChIs72whgZI9w6d6FhwGGHA": {
+  "t": [
+   "reviews",
+   "teardowns",
+   "hardware"
+  ],
+  "d": "Test-bench hardware reviews and teardowns, data first"
+ },
+ "UCWr0mx597DnSGLFk1WfvSkQ": {
+  "t": [
+   "programming",
+   "vlogs",
+   "web"
+  ],
+  "d": "Building a startup product in public, dev vlogs"
+ },
+ "UCqjVP9gAanUGFgTA5BRDvyA": {
+  "t": [
+   "reviews"
+  ],
+  "d": "Gadget reviews for the slightly unboxing-obsessed"
+ },
+ "UCwEEjrUYHDyQsYPTQdNVacg": {
+  "t": [
+   "programming",
+   "vlogs"
+  ],
+  "d": "Indie app development and founder vlogs"
+ },
+ "UCc1Pn7FxieMohCZFPYEbs7w": {
+  "t": [
+   "teardowns",
+   "hardware"
+  ],
+  "d": "Fixing old electronics and explaining how things work"
+ },
+ "UCoLUji8TYrgDy74_iiazvYA": {
+  "t": [
+   "vlogs",
+   "commentary"
+  ],
+  "d": "Tech culture experiments and commentary"
+ },
+ "UCdjWvAZC4FXaOI9_puALhTg": {
+  "t": [
+   "career",
+   "programming"
+  ],
+  "d": "Software-engineering career advice (channel retired)"
+ },
+ "UCLZxPVkEvf9XuifStuHK_gA": {
+  "t": [
+   "hardware",
+   "vlogs"
+  ],
+  "d": "On-camera scam baiting and street tech justice"
+ },
+ "UCXuqSBlHAE6Xw-yeJA0Tunw": {
+  "t": [
+   "reviews",
+   "hardware",
+   "builds"
+  ],
+  "d": "PC builds, benchmarks and consumer-tech experiments"
+ },
+ "UC8-6D57Us7J6JgGfiAzVl5A": {
+  "t": [
+   "web",
+   "projects"
+  ],
+  "d": "Front-end developer making web music videos and art"
+ },
+ "UCkv0fW0EIUTKw6pYEnTjTbQ": {
+  "t": [
+   "embedded",
+   "projects",
+   "linux"
+  ],
+  "d": "Raspberry Pi, homelab and single-board builds"
+ },
+ "UCBJycsmduvYEL83R_U4JriQ": {
+  "t": [
+   "reviews"
+  ],
+  "d": "MKBHD: clean smartphone and gadget reviews"
+ },
+ "UCMiJRAwDNSNzuYeN2uWa0pA": {
+  "t": [
+   "reviews"
+  ],
+  "d": "Comparison reviews and long-tenure gadget testing"
+ },
+ "UCZSlfzadjnw7G419c_OJ9eg": {
+  "t": [
+   "reviews"
+  ],
+  "d": "Extra cuts and experiments from Mrwhosetheboss"
+ },
+ "UCHuiy8bXnmK5nisYHUd1J5g": {
+  "t": [
+   "hardware",
+   "ai",
+   "news"
+  ],
+  "d": "Vendor channel: GPUs, CUDA and AI infrastructure"
+ },
+ "UChYU73igK5wQhWAXPh3X8PA": {
+  "t": [
+   "reviews"
+  ],
+  "d": "Ad-free smartphone reviews and camera comparisons"
+ },
+ "UC_1awbvccFZOnVRjAIkCG7Q": {
+  "t": [
+   "hardware",
+   "projects"
+  ],
+  "d": "Desk setups, open-source apps and practical gadgets"
+ },
+ "UCWwgaK7x0_FR1goeSRazfsQ": {
+  "t": [
+   "news"
+  ],
+  "d": "Vendor channel: Galaxy launches and feature films"
+ },
+ "UCdBK94H6oZT2Q7l0-b0xmMg": {
+  "t": [
+   "reviews",
+   "projects"
+  ],
+  "d": "Quick product reviews and desk-setup builds"
+ },
+ "UCtZO3K2p8mqFwiKWb9k7fXA": {
+  "t": [
+   "news",
+   "commentary"
+  ],
+  "d": "Charts and systems-level takes on the tech industry"
+ },
+ "UC5WjFrtBdufl6CZojX3D8dQ": {
+  "t": [
+   "news",
+   "hardware"
+  ],
+  "d": "Vendor channel: vehicle, battery and factory updates"
+ },
+ "UCLuh16hy-jKIoKyfyHx6nVw": {
+  "t": [
+   "news",
+   "reviews"
+  ],
+  "d": "Product leak explainers, mostly Samsung (quiet since 2024)"
+ },
+ "UCQSpnDG3YsFNf5-qHocF-WQ": {
+  "t": [
+   "windows",
+   "explains"
+  ],
+  "d": "Windows, Steam and PC software explained"
+ },
+ "UCsTcErHg8oDvUnTzoqsYeNw": {
+  "t": [
+   "reviews"
+  ],
+  "d": "Unboxings and first looks at new hardware"
+ },
+ "UCHAK6CyegY22Zj2GWrcaIxg": {
+  "t": [
+   "explains",
+   "hardware"
+  ],
+  "d": "Documentary explainers of mega-builds and tech failures"
+ },
+ "UC51WtMXgM71IkLnTc4O63_g": {
+  "t": [
+   "algorithms",
+   "explains"
+  ],
+  "d": "Algorithms explained through puzzles"
+ },
+ "UCRLEADhMcb8WUdnQ5_Alk7g": {
+  "t": [
+   "ai",
+   "projects"
+  ],
+  "d": "Building AI agents and tools as a developer"
+ },
+ "UCcQsDUZiK1GWDcP7BpVO_kw": {
+  "t": [
+   "javascript",
+   "web",
+   "streams"
+  ],
+  "d": "JavaScript and Next.js, plus live code casts"
+ },
+ "UC3sH8ShnMyB5MxavG1DaklA": {
+  "t": [
+   "algorithms",
+   "ai",
+   "explains"
+  ],
+  "d": "Algorithms and how LLMs actually work, explained"
+ },
+ "UCFIabE5n4mQgQvd97FAgjhg": {
+  "t": [
+   "graphics",
+   "ai",
+   "projects"
+  ],
+  "d": "Procedural animation and simulation devlogs"
+ },
+ "UC-8QAzbLcRglXeN_MY9blyw": {
+  "t": [
+   "ai",
+   "career",
+   "commentary"
+  ],
+  "d": "AI coding experiments and software-engineering comedy"
+ },
+ "UC2Xd-TjJByJyK2w1zNwY0zQ": {
+  "t": [
+   "web",
+   "javascript",
+   "explains"
+  ],
+  "d": "Deep dives on the frameworks Fireship only had time for"
+ },
+ "UC5--wS0Ljbin1TjWQX6eafA": {
+  "t": [
+   "career",
+   "c-cpp",
+   "commentary"
+  ],
+  "d": "Systems-programming careers and C++ industry takes"
+ },
+ "UCZgt6AzoyjslHTC9dz0UoTw": {
+  "t": [
+   "system-design",
+   "databases",
+   "explains"
+  ],
+  "d": "System design: queues, caches, databases, explained visually"
+ },
+ "UCvVmYD5cDFgHy966NxgJqaQ": {
+  "t": [
+   "algorithms",
+   "streams",
+   "programming"
+  ],
+  "d": "Live whiteboard data structures and algorithms"
+ },
+ "UCjREVt2ZJU8ql-NC9Gu-TJw": {
+  "t": [
+   "career",
+   "ai",
+   "devops"
+  ],
+  "d": "Cloud, MLOps and interview prep for working engineers"
+ },
+ "UC2ITRZ4_Di-KMHSIylTQbBA": {
+  "t": [
+   "python",
+   "ai",
+   "projects"
+  ],
+  "d": "Discord bots and LLM apps, built end to end"
+ },
+ "UC1kBxkk2bcG78YBX7LMl9pQ": {
+  "t": [
+   "programming",
+   "explains"
+  ],
+  "d": "Array languages, APL and one problem in many languages"
+ },
+ "UCDCHcqyeQgJ-jVSd6VJkbCw": {
+  "t": [
+   "web",
+   "projects",
+   "career"
+  ],
+  "d": "Project builds, APIs and career moves for web devs"
+ },
+ "UCnVxTe31G4nTbhp9dQEO4iQ": {
+  "t": [
+   "tools",
+   "ai",
+   "tutorials"
+  ],
+  "d": "Hands-on tool tutorials, mostly AI-assisted coding"
+ },
+ "UCRLHJ-7b4pjDpBBHAUXEvjQ": {
+  "t": [
+   "c-cpp",
+   "performance",
+   "projects"
+  ],
+  "d": "C++ and performance experiments from a learner's view"
+ },
+ "UCxX9wt5FWQUAAz4UrysqK9A": {
+  "t": [
+   "career",
+   "python",
+   "courses"
+  ],
+  "d": "Interview prep, Python and practical AI tooling"
+ },
+ "UCcWZY8dxd4HhlH5vY_Luzgw": {
+  "t": [
+   "tools",
+   "projects"
+  ],
+  "d": "Tools for organising files and notes, open-sourced"
+ },
+ "UCwRXb5dUK4cvsHbx-rGzSgw": {
+  "t": [
+   "courses",
+   "math",
+   "programming"
+  ],
+  "d": "Full-length crash courses on math and programming"
+ },
+ "UC-DN_3LKlMTrouRNa9X0siQ": {
+  "t": [
+   "career",
+   "ai"
+  ],
+  "d": "Getting an ML or SWE job: applications, prep, portfolios"
+ },
+ "UCWQaM7SpSECp9FELz-cHzuQ": {
+  "t": [
+   "rust",
+   "web",
+   "commentary"
+  ],
+  "d": "Essays on Rust, web stack choices and writing code by hand"
+ },
+ "UCLXAviTgz5MuJrR_rbLGNWg": {
+  "t": [
+   "frontend",
+   "javascript",
+   "career"
+  ],
+  "d": "Front-end performance and career Q&A (quiet since 2024)"
+ },
+ "UCsBjURrPoezykLs9EqgamOA": {
+  "t": [
+   "news",
+   "ai",
+   "explains"
+  ],
+  "d": "High-density tech explainers and industry news, 100 seconds or less"
+ },
+ "UC8butISFwT-Wl7EV0hUK0BQ": {
+  "t": [
+   "courses",
+   "programming",
+   "ai"
+  ],
+  "d": "Full-length free courses on everything"
+ },
+ "UCOf7UPMHBjAavgD0Qw5q5ww": {
+  "t": [
+   "career",
+   "interviews"
+  ],
+  "d": "Interview questions, candidate POVs and hiring inside tech"
+ },
+ "UCYt1sfh5464XaDBH0oH_o7Q": {
+  "t": [
+   "java",
+   "databases",
+   "tutorials"
+  ],
+  "d": "Java, Spring, cloud architecture and database trade-offs"
+ },
+ "UCqdwM6M5SPmuX779w-6iQTA": {
+  "t": [
+   "career",
+   "shorts"
+  ],
+  "d": "Short cuts from Joma Tech"
+ },
+ "UCV0qA-eDDICsRR9rPcnG7tw": {
+  "t": [
+   "career",
+   "vlogs"
+  ],
+  "d": "Software-engineering career vlogs and industry takes"
+ },
+ "UCsLo154Krjwhoz8W00N8ItA": {
+  "t": [
+   "linux",
+   "shell",
+   "tutorials"
+  ],
+  "d": "Linux command line and beginner-friendly CS basics"
+ },
+ "UCWIzrKzN4KY6BPU8hsk880Q": {
+  "t": [
+   "career",
+   "interviews"
+  ],
+  "d": "Engineers on what working at big tech is really like"
+ },
+ "UCnHX5FjwtQpxkCGziuh4NJA": {
+  "t": [
+   "programming",
+   "commentary"
+  ],
+  "d": "Code quality, language design and pragmatic engineering"
+ },
+ "UCFxcvyt2Ucq5IL0_1Njzqlg": {
+  "t": [
+   "ai",
+   "python",
+   "courses"
+  ],
+  "d": "Machine learning in Python, one concept at a time"
+ },
+ "UCdtys5fMiaI_NJPeshNzxMQ": {
+  "t": [
+   "ai",
+   "projects"
+  ],
+  "d": "Building AI apps and agents, hands on"
+ },
+ "UCxXDaOaqJqMMrr4PGzNsMkQ": {
+  "t": [
+   "compilers",
+   "performance",
+   "career"
+  ],
+  "d": "Compilers, CPU performance and getting a first job"
+ },
+ "UCWv7vMbMWH4-V0ZXdmDpPBA": {
+  "t": [
+   "courses",
+   "programming"
+  ],
+  "d": "Structured language and framework courses"
+ },
+ "UCBTZEtFw_-eLa1Vb5LPiGMA": {
+  "t": [
+   "algorithms",
+   "tutorials"
+  ],
+  "d": "Competitive-programming problems and data-structure theory"
+ },
+ "UC3ewEwPUnReNd_mgwxOn9aQ": {
+  "t": [
+   "c-cpp",
+   "javascript",
+   "commentary"
+  ],
+  "d": "Facebook-veteran C++ and React review, unfiltered"
+ },
+ "UC8ENHE5xdFSwx71u3fDH5Xw": {
+  "t": [
+   "programming",
+   "game-dev",
+   "streams"
+  ],
+  "d": "Live coding, game programming and engineering opinions"
+ },
+ "UC806fwFWpiLQV5y-qifzHnA": {
+  "t": [
+   "graphics",
+   "programming",
+   "projects"
+  ],
+  "d": "Creative GPU graphics and shader programming"
+ },
+ "https://fastapi.tiangolo.com/async/#asynchronous-code": {
+  "t": [
+   "python",
+   "web",
+   "tutorials"
+  ]
+ },
+ "UCVhQ2NnY5Rskt6UjCUkJ_DA": {
+  "t": [
+   "python",
+   "programming"
+  ],
+  "d": "Python design, patterns and code review"
+ },
+ "UC80PWRj_ZU8Zu0HSMNVwKWw": {
+  "t": [
+   "python",
+   "tutorials"
+  ],
+  "d": "Short, systematic tutorials on Python and web stack"
+ },
+ "UCCezIgC97PvUuR4_gbFUs5g": {
+  "t": [
+   "python",
+   "courses"
+  ],
+  "d": "The reference Python and Flask tutorials"
+ },
+ "UCTZRcDjjkVajGL6wd76UnGg": {
+  "t": [
+   "python",
+   "web",
+   "courses"
+  ],
+  "d": "Django and Python project courses"
+ },
+ "UC0ldCF9X6_iK4XIm3lGLcqg": {
+  "t": [
+   "python",
+   "performance"
+  ],
+  "d": "Pushing Python performance with C extensions and numpy"
+ },
+ "UCaiL2GDNpLYH6Wokkk1VNcg": {
+  "t": [
+   "python",
+   "explains"
+  ],
+  "d": "Python quirks and the reasoning underneath them"
+ },
+ "UC8wZnXYK_CGKlBcZp-GxYPA": {
+  "t": [
+   "python",
+   "ai",
+   "projects"
+  ],
+  "d": "Python projects and AI-model comparisons"
+ },
+ "UC-QDfvrRIDB6F0bIO4I4HkQ": {
+  "t": [
+   "python",
+   "tutorials"
+  ],
+  "d": "Professional Python: packaging, APIs, testing"
+ },
+ "UCQsrA4xo6jvdgsJZhKaBL6w": {
+  "t": [
+   "python",
+   "streams",
+   "community"
+  ],
+  "d": "Community streams, code jams and release wrap-ups"
+ },
+ "UCKQdc0-Targ4nDIAUrlfKiA": {
+  "t": [
+   "python",
+   "ai",
+   "projects"
+  ],
+  "d": "Project builds in Python, including local LLMs"
+ },
+ "UCI0vQvr9aFn27yR6Ej6n5UA": {
+  "t": [
+   "python",
+   "tutorials"
+  ],
+  "d": "Deep Python tutorials: itertools, packaging, tooling"
+ },
+ "UCfzlCWGWYyIQ0aLC5w48gBQ": {
+  "t": [
+   "python",
+   "ai",
+   "projects"
+  ],
+  "d": "Python trading, local models and hands-on ML"
+ },
+ "UC4JX40jDee_tINbkjycV4Sg": {
+  "t": [
+   "python",
+   "ai",
+   "projects"
+  ],
+  "d": "Python projects, agents and how-to tutorials"
+ },
+ "UC33uwXXDrI5TxG4IXnjS28g": {
+  "t": [
+   "python",
+   "web",
+   "courses"
+  ],
+  "d": "Django from the ground up, tested and typed"
+ },
+ "UCs4fQRyl1TJvoeOdekW6lYA": {
+  "t": [
+   "rust",
+   "systems",
+   "writing"
+  ],
+  "d": "fasterthanli.me: systems writing and Rust internals"
+ },
+ "UCiT_r1GD7JSftnbViKHcOtQ": {
+  "t": [
+   "rust",
+   "streams"
+  ],
+  "d": "Rust live coding and crate craftsmanship"
+ },
+ "UCSp-OaMpsO8K0KkOqyBl7_w": {
+  "t": [
+   "rust",
+   "tutorials",
+   "career"
+  ],
+  "d": "Rust tutorials, jobs and industry adoption"
+ },
+ "UCUMwY9iS8oMyWDYIe6_RmoA": {
+  "t": [
+   "rust",
+   "explains"
+  ],
+  "d": "Rust tooling, learning systems and clear explanations"
+ },
+ "UCSJbGtTlrDami-tDGPUV9-w": {
+  "t": [
+   "web",
+   "courses",
+   "security"
+  ],
+  "d": "Web stack courses and security fallout explainers"
+ },
+ "UCajiMK_CY9icRhLepS8_3ug": {
+  "t": [
+   "web",
+   "hardware",
+   "projects"
+  ],
+  "d": "Web development plus homelab and AI hardware"
+ },
+ "UCjX0FtIZBBVD3YoCcxnDC4g": {
+  "t": [
+   "javascript",
+   "web",
+   "tutorials"
+  ],
+  "d": "Short JavaScript and React tutorials"
+ },
+ "UClb90NQQcskPUGDIXsQEz5Q": {
+  "t": [
+   "web",
+   "game-dev",
+   "projects"
+  ],
+  "d": "Web and game projects built with a playful streak"
+ },
+ "UCTCDjn7rnejAvhOrhlVgZrw": {
+  "t": [
+   "editors",
+   "terminal"
+  ],
+  "d": "Neovim configuration and workflow in practice"
+ },
+ "UCZ_cuJGBis0vi6U3bWmvDIg": {
+  "t": [
+   "web",
+   "javascript",
+   "projects"
+  ],
+  "d": "Full-stack builds and web platform deep dives"
+ },
+ "UCwXdFgeE9KYzlDdR7TG9cMw": {
+  "t": [
+   "flutter",
+   "mobile",
+   "news"
+  ],
+  "d": "The official Flutter channel: roadmap, Dart, releases"
+ },
+ "UC8zOy50mo4UzGISwqMrRJEQ": {
+  "t": [
+   "flutter",
+   "mobile",
+   "tutorials"
+  ],
+  "d": "Flutter app builds, from notifications to full apps"
+ },
+ "UC-T8W79DN6PBnzomelvqJYw": {
+  "t": [
+   "web",
+   "javascript",
+   "streams"
+  ],
+  "d": "Web dev streams and build-along side projects"
+ },
+ "UCee3jrGUdb2ovrE7v4ncH3Q": {
+  "t": [
+   "web",
+   "devops",
+   "explains"
+  ],
+  "d": "Serverless and web architecture, explained calmly"
+ },
+ "UC6wpjLSLn2dhlaDjn6_V0rw": {
+  "t": [
+   "frontend",
+   "web",
+   "explains"
+  ],
+  "d": "Front-end craft: layout, design systems, API ideas"
+ },
+ "UCVj9dwfXRmwyYmiWnk-qCCQ": {
+  "t": [
+   "flutter",
+   "mobile",
+   "design"
+  ],
+  "d": "Flutter and mobile UI detail, presented beautifully"
+ },
+ "UCW5YeuERMmlnqo4oq8vwUpg": {
+  "t": [
+   "web",
+   "courses"
+  ],
+  "d": "Framework-by-framework web courses, CSS included"
+ },
+ "UCEpftYEg0Ico0Yj3esRFp2Q": {
+  "t": [
+   "web"
+  ],
+  "d": "Web tutorials; the channel feed returns nothing, so activity is unclear"
+ },
+ "UCJKYubtV1bfbhS-SxTm9Z1A": {
+  "t": [
+   "web",
+   "reviews"
+  ],
+  "d": "Web framework reviews and honest tool criticism"
+ },
+ "UCZSr5B0l07JXK2FIeWA0-jw": {
+  "t": [
+   "web",
+   "javascript",
+   "community"
+  ],
+  "d": "Community calls and the weekly Svelte changelog"
+ },
+ "UCyi06SeKkiwoAzFVmQtDtfg": {
+  "t": [
+   "graphics",
+   "web",
+   "projects"
+  ],
+  "d": "WebGL art experiments and creative coding"
+ },
+ "UC29ju8bIPH5as8OGnQzwJyA": {
+  "t": [
+   "web",
+   "tutorials"
+  ],
+  "d": "Project-based web development crash courses"
+ },
+ "UCFbNIlppjAuEX4znoulh0Cw": {
+  "t": [
+   "web",
+   "javascript",
+   "tutorials"
+  ],
+  "d": "Focused web tutorials: React, CSS, auth, tooling"
+ },
+ "UCmEzz-dPBVrsy4ZluSsYHDg": {
+  "t": [
+   "design",
+   "frontend",
+   "projects"
+  ],
+  "d": "Design teardowns and app redesigns, built for real"
+ },
+ "UCa8W2_uf81Ew6gYuw0VPSeA": {
+  "t": [
+   "design",
+   "frontend"
+  ],
+  "d": "UI design experiments and honest software makeovers"
+ },
+ "UCrUL8K81R4VBzm-KOYwrcxQ": {
+  "t": [
+   "algorithms",
+   "programming",
+   "tutorials"
+  ],
+  "d": "Algorithms, TDD and tooling made playful"
+ },
+ "UC6biysICWOJ-C3P4Tyeggzg": {
+  "t": [
+   "systems",
+   "security",
+   "performance"
+  ],
+  "d": "Low-level software: kernels, exploits and performance"
+ },
+ "UCDzVUXiTr3hClI-zzCWbYzg": {
+  "t": [
+   "math",
+   "algorithms",
+   "explains"
+  ],
+  "d": "Math and CS fundamentals, carefully derived"
+ },
+ "UCtEwVJZABCd0tels2KIpKGQ": {
+  "t": [
+   "game-dev",
+   "programming",
+   "projects"
+  ],
+  "d": "Game devlogs, tooling and Motion Canvas work"
+ },
+ "UClVIlK8QHZ2PFkXF97bA0lg": {
+  "t": [
+   "reviews",
+   "teardowns"
+  ],
+  "d": "Phone reviews, teardowns and repairability"
+ },
+ "UCNzszbnvQeFzObW0ghk0Ckw": {
+  "t": [
+   "hardware",
+   "projects",
+   "ai"
+  ],
+  "d": "Bespoke hardware builds and AI experiments"
+ },
+ "UCbiGcwDWZjz05njNPrJU7jA": {
+  "t": [
+   "hardware",
+   "explains"
+  ],
+  "d": "Hardware architecture explainers and SBC reviews"
+ },
+ "UCr4ORxQmhgdG5qp_BDHmN1Q": {
+  "t": [
+   "hardware",
+   "retro"
+  ],
+  "d": "Retro and electronics builds; the channel feed returns nothing"
+ },
+ "UCR-DXc1voovS8nhAvccRZhg": {
+  "t": [
+   "embedded",
+   "networking",
+   "projects"
+  ],
+  "d": "Raspberry Pi, networking and homelab, backed by data"
+ },
+ "UCRb6Mw3fJ6OFzp-cB9X29aA": {
+  "t": [
+   "hardware",
+   "embedded",
+   "projects"
+  ],
+  "d": "Playing video on improbable hardware"
+ },
+ "UCn4TA_ZZakaElp0OWM4ducg": {
+  "t": [
+   "embedded",
+   "retro",
+   "projects"
+  ],
+  "d": "Raspberry Pi emulation and retro handheld builds"
+ },
+ "UCl2mFZoRqjw_ELax4Yisf6w": {
+  "t": [
+   "hardware",
+   "teardowns",
+   "commentary"
+  ],
+  "d": "Repair industry, right-to-repair and its politics"
+ },
+ "UCrjKdwxaQMSV_NDywgKXVmw": {
+  "t": [
+   "hardware",
+   "retro",
+   "teardowns"
+  ],
+  "d": "Retro machines, storage and hands-on teardowns"
+ },
+ "UCFIjVWFZ__KhtTXHDJ7vgng": {
+  "t": [
+   "embedded",
+   "news"
+  ],
+  "d": "The official channel: releases, podcasts, community"
+ },
+ "UCdhDOlwIuY0yR-KxlblnsxQ": {
+  "t": [
+   "embedded",
+   "reviews"
+  ],
+  "d": "Microcontroller reviews: Pico, ESP, Teensy, Teensy-ish"
+ },
+ "UCwGEZhoIwu7GN44Xkr_fXwA": {
+  "t": [
+   "hardware",
+   "projects"
+  ],
+  "d": "Second channel: archive clips and offcuts from styropyro"
+ },
+ "UCJYJgj7rzsn0vdR7fkgjuIA": {
+  "t": [
+   "hardware",
+   "projects"
+  ],
+  "d": "High voltage, lasers and dangerous-looking experiments"
+ },
+ "UCZDA1kA3y3EIg25BpcHSpwQ": {
+  "t": [
+   "embedded",
+   "python",
+   "projects"
+  ],
+  "d": "Raspberry Pi projects and Python scraping tutorials"
+ },
+ "UCTqMx8l2TtdZ7_1A40qrFiQ": {
+  "t": [
+   "teardowns",
+   "hardware"
+  ],
+  "d": "Phone teardowns, repair and factory visits"
+ },
+ "UCJYVW4HVrMWpUvvsjPQc8-Q": {
+  "t": [
+   "linux",
+   "devops",
+   "tutorials"
+  ],
+  "d": "Linux servers and distro administration"
+ },
+ "UCIUhte-_ir56ZptjyUT26PQ": {
+  "t": [
+   "linux",
+   "terminal",
+   "dotfiles"
+  ],
+  "d": "Window-manager dotfiles and Tricing setups"
+ },
+ "UCeZyoDTk0J-UPhd7MUktexw": {
+  "t": [
+   "nix",
+   "linux",
+   "security"
+  ],
+  "d": "NixOS deep dives, packaging and supply-chain news"
+ },
+ "UCd4XwUn2Lure2NHHjukoCwA": {
+  "t": [
+   "linux",
+   "news"
+  ],
+  "d": "Desktop Linux news, distros and community arguments"
+ },
+ "UCS25Y-2DUke9uOU5OtLwwgg": {
+  "t": [
+   "linux",
+   "commentary"
+  ],
+  "d": "Linux news and distro politics, commentary first"
+ },
+ "UCS-WzPVpAAli-1IfEG2lN8A": {
+  "t": [
+   "linux",
+   "retro",
+   "streams"
+  ],
+  "d": "Live Linux, retro machines and community calls"
+ },
+ "UCuGS5mN1_CpPzuOUAu2LluA": {
+  "t": [
+   "nix",
+   "linux",
+   "tools"
+  ],
+  "d": "Nix, NixOS and small open-source tools"
+ },
+ "UC5UAwBUum7CPN5buc-_N1Fw": {
+  "t": [
+   "linux",
+   "reviews"
+  ],
+  "d": "Distro trials, desktop Linux and honest opinions"
+ },
+ "UCfX55Sx5hEFjoC3cNs6mCUQ": {
+  "t": [
+   "linux",
+   "open-source",
+   "talks"
+  ],
+  "d": "Foundation talks on open-source governance and infra"
+ },
+ "UChpYmMp7EFaxuogUX1eAqyw": {
+  "t": [
+   "nix",
+   "linux",
+   "tutorials"
+  ],
+  "d": "NixOS configuration and packaging walkthroughs"
+ },
+ "UCTVHQ9GMFYLalQDynyXNTKQ": {
+  "t": [
+   "go",
+   "terminal",
+   "streams"
+  ],
+  "d": "Go CLI tooling (Charm) and open-source live coding"
+ },
+ "UC7c3Kb6jYCRj4JOHHZTxKsQ": {
+  "t": [
+   "tools",
+   "git",
+   "news"
+  ],
+  "d": "Release explainers and how to use the platform better"
+ },
+ "UC_zBdZ0_H_jn41FDRG7q4Tw": {
+  "t": [
+   "editors",
+   "nix",
+   "terminal"
+  ],
+  "d": "Neovim, Nix and terminal tooling in short form"
+ },
+ "UCs5Y5_7XK8HLDX0SLNwkd3w": {
+  "t": [
+   "editors",
+   "tools",
+   "news"
+  ],
+  "d": "Official VS Code releases, features and tips"
+ },
+ "UCKONdcQCTP3aozARj1ntKhw": {
+  "t": [
+   "terminal",
+   "tools"
+  ],
+  "d": "Terminal and code-review workflow tooling"
+ },
+ "UCTrAO0TDCldnYUN3BkLmGcw": {
+  "t": [
+   "security",
+   "linux",
+   "shorts"
+  ],
+  "d": "Short Linux, security and programming tips"
+ },
+ "UCP7WmQ_U4GB3K51Od9QvM0w": {
+  "t": [
+   "networking",
+   "career",
+   "interviews"
+  ],
+  "d": "Networking, certifications and the industry around them"
+ },
+ "UCWb-66XSFCV5vgKEbl22R6Q": {
+  "t": [
+   "systems",
+   "security",
+   "projects"
+  ],
+  "d": "Overflow, huge files and systems edge cases, demonstrated"
+ },
+ "UC0ZTPkdxlAKf-V33tqXwi3Q": {
+  "t": [
+   "security",
+   "tutorials"
+  ],
+  "d": "Structured pentesting labs and AD attack walkthroughs"
+ },
+ "UCBNG0osIBAprVcZZ3ic84vw": {
+  "t": [
+   "security",
+   "investigations"
+  ],
+  "d": "Scam baiting and how the scams actually work"
+ },
+ "UCm8EsftbfNzSiRHzc7I59KQ": {
+  "t": [
+   "security",
+   "system-design",
+   "explains"
+  ],
+  "d": "Security incidents and system design, whiteboard style"
+ },
+ "UC3VDCeZYZH7mCihtMVHqppw": {
+  "t": [
+   "security",
+   "hardware",
+   "embedded"
+  ],
+  "d": "Hardware hacking: Flipper Zero, BLE, industrial gear"
+ },
+ "UC7YOGHUfC1Tb6E4pudI9STA": {
+  "t": [
+   "security",
+   "linux",
+   "news"
+  ],
+  "d": "Privacy, self-hosting and security news"
+ },
+ "UCgTNupxATBfWmfehv21ym-g": {
+  "t": [
+   "security",
+   "projects",
+   "networking"
+  ],
+  "d": "Hacking projects and radio/RF experiments"
+ },
+ "UCW6MNdOsqv2E9AjQkv9we7A": {
+  "t": [
+   "security",
+   "web"
+  ],
+  "d": "Web exploitation walkthroughs and CTF-style detail"
+ },
+ "UCW6xlqxSY3gGur4PkGPEUeA": {
+  "t": [
+   "security",
+   "news"
+  ],
+  "d": "Security stories and offensive tech, explained plainly"
+ },
+ "UC0ArlFuFYMpEewyRBzdLHiw": {
+  "t": [
+   "security",
+   "career",
+   "streams"
+  ],
+  "d": "Career Q&A and live streams for security people"
+ },
+ "UCXUPKJO5MZQN11PqgIvyuvQ": {
+  "t": [
+   "ai",
+   "python",
+   "courses"
+  ],
+  "d": "LLMs from scratch: GPT-2 reproduction, deep dives"
+ },
+ "UCep6Rpvw3PtOMJWAFpKl8Yw": {
+  "t": [
+   "ai",
+   "courses"
+  ],
+  "d": "Applied ML lectures and demos from DeepLearning.AI"
+ },
+ "UCBGxe5vTiVWv7e2gP6QB1Mw": {
+  "t": [
+   "ai",
+   "career"
+  ],
+  "d": "ML careers and how to actually learn the field"
+ },
+ "UCEEVcDuBRDiwxfXAgQjLGug": {
+  "t": [
+   "ai",
+   "systems",
+   "projects"
+  ],
+  "d": "Self-driving research and the tools around it"
+ },
+ "UCwBhBDsqiQflTMLy2epbQVw": {
+  "t": [
+   "ai",
+   "projects"
+  ],
+  "d": "AI agents, artificial life and simulations"
+ },
+ "UC1H1NWNTG2Xi3pt85ykVSHA": {
+  "t": [
+   "ai",
+   "career",
+   "talks"
+  ],
+  "d": "ML research work, careers and being deliberate"
+ },
+ "UC7Fs-Fdpe0I8GYg3lboEuXw": {
+  "t": [
+   "ai",
+   "math",
+   "explains"
+  ],
+  "d": "ML maths and statistics, clearly derived"
+ },
+ "UC0rqucBdTuFTjJiefW5t-IQ": {
+  "t": [
+   "ai",
+   "talks"
+  ],
+  "d": "The official channel: releases, research and case studies"
+ },
+ "UCbfYPyITQ-7l4upoX8nvctg": {
+  "t": [
+   "ai",
+   "papers",
+   "shorts"
+  ],
+  "d": "Two minutes per recent ML paper, excitement intact"
+ },
+ "UCz3l6nyODzXLzTxIkARZ8rw": {
+  "t": [
+   "game-dev",
+   "godot",
+   "projects"
+  ],
+  "d": "Multiplayer game experiments in Godot"
+ },
+ "UCYbK_tjZ2OrIZFBvU6CCMiA": {
+  "t": [
+   "game-dev",
+   "godot",
+   "tutorials"
+  ],
+  "d": "Game-dev tutorials and the Godot game jam"
+ },
+ "UCIabPXjvT5BVTxRDPCBBOOQ": {
+  "t": [
+   "game-dev",
+   "godot",
+   "projects"
+  ],
+  "d": "Game-dev experiments, most of them deliberately bad"
+ },
+ "UC7M-Wz4zK8oikt6ATcoTwBA": {
+  "t": [
+   "graphics",
+   "math",
+   "tools"
+  ],
+  "d": "Graphics maths, shaders and tools (Aseprite-adjacent)"
+ },
+ "UC0y9_728zj1_q7jeU_KZ4LA": {
+  "t": [
+   "graphics",
+   "math",
+   "tutorials"
+  ],
+  "d": "Shader and raymarching intros, concise"
+ },
+ "UC4JOEhysa6c4him-p68DuhA": {
+  "t": [
+   "game-dev",
+   "graphics",
+   "projects"
+  ],
+  "d": "Handmade 2D engines and game trailers"
+ },
+ "UCl7dSJloxuCa9IBFml7sakw": {
+  "t": [
+   "game-dev",
+   "c-cpp",
+   "projects"
+  ],
+  "d": "C++ game experiments and odd challenges"
+ },
+ "UCORkUj9eaM2aDJM1VYyDDTA": {
+  "t": [
+   "game-dev",
+   "godot",
+   "projects"
+  ],
+  "d": "Game jams and Minecraft-adjacent builds"
+ },
+ "UCmtyQOKKmrMVaKuRXz02jbQ": {
+  "t": [
+   "graphics",
+   "c-cpp",
+   "projects"
+  ],
+  "d": "Procedural worlds and writing graphics code by hand"
+ },
+ "UCUd0Pj06Jt1kgW-VdvmgIQQ": {
+  "t": [
+   "game-dev",
+   "projects"
+  ],
+  "d": "Small-scope game devlogs, devlog-to-launch"
+ },
+ "UCrcOrUcsMYRMqTfAy-IG0rg": {
+  "t": [
+   "game-dev",
+   "projects"
+  ],
+  "d": "Building an MMO in public: NPCs, speech, systems"
+ },
+ "UCMwLVepB4YOgpyo48iyg7HA": {
+  "t": [
+   "game-dev",
+   "programming",
+   "performance"
+  ],
+  "d": "Game-dev devlogs and Godot engine internals"
+ },
+ "UCc4IizbM0q_JySK3XUY0Drw": {
+  "t": [
+   "game-dev",
+   "projects"
+  ],
+  "d": "Time-boxed game jams and self-imposed constraints"
+ },
+ "UCYO_jab_esuFRV4b17AJtAw": {
+  "t": [
+   "math",
+   "explains"
+  ],
+  "d": "Visual mathematics, the reference for the field"
+ },
+ "UCzBjutX2PmitNF4avysL-vg": {
+  "t": [
+   "math",
+   "explains"
+  ],
+  "d": "Modern maths: primes, dimension, topology, intuited"
+ },
+ "UCnFmWQbVW_YbqPQZGNuq8sA": {
+  "t": [
+   "math",
+   "courses",
+   "streams"
+  ],
+  "d": "Real analysis lectures, live and unedited"
+ },
+ "UC2RpxrkilRbhwED1YG4BUIA": {
+  "t": [
+   "math",
+   "streams"
+  ],
+  "d": "Live school-level maths with personality"
+ },
+ "UCisjF-Un7hf9lsMhoStF3OQ": {
+  "t": [
+   "math",
+   "courses"
+  ],
+  "d": "Undergraduate math concepts in short form"
+ },
+ "UCHmVAKGT0AcuD24zyjG1xYQ": {
+  "t": [
+   "math",
+   "algorithms"
+  ],
+  "d": "Primes, cellular automata and computational exploration"
+ },
+ "UCkgKbO073CuS1ZZFKoOgTVw": {
+  "t": [
+   "math",
+   "category-theory"
+  ],
+  "d": "Category theory and lambda calculus, drawn out"
+ },
+ "UCQHsMwcGoH1ygyi-pJs5Z8A": {
+  "t": [
+   "cs-theory",
+   "explains"
+  ],
+  "d": "How computers and encryption work, visually (dormant)"
+ },
+ "UCT9Fyqn0izh-wX-wDzKBwAA": {
+  "t": [
+   "math",
+   "visual"
+  ],
+  "d": "Proofs without words, animated"
+ },
+ "UCHnj59g7jezwTy5GeL8EA_g": {
+  "t": [
+   "math",
+   "puzzles"
+  ],
+  "d": "Puzzle and competition problems, worked quickly"
+ },
+ "UCtJPeNYnAXhB1-_h8xbIX_Q": {
+  "t": [
+   "math",
+   "abstract-algebra"
+  ],
+  "d": "Group theory and abstract algebra, episode by episode"
+ },
+ "UCtAIs1VCQrymlAnw3mGonhw": {
+  "t": [
+   "projects",
+   "math"
+  ],
+  "d": "Chemistry and engineering projects with a chaotic edge"
+ },
+ "UC6_J0wZdqcoRVs0Mck922SQ": {
+  "t": [
+   "math",
+   "abstract-algebra"
+  ],
+  "d": "Category theory and abstract algebra, seriously"
+ },
+ "UCSju5G2aFaWMqn-_0YBtq5A": {
+  "t": [
+   "math",
+   "explains"
+  ],
+  "d": "Math comedy with real proofs behind the jokes"
+ },
+ "UCm5mt-A4w61lknZ9lCsZtBw": {
+  "t": [
+   "math",
+   "ai",
+   "courses"
+  ],
+  "d": "Applied maths, control and fluid dynamics lectures"
+ },
+ "UCEWpbFLzoYGPfuWUMFPSaoA": {
+  "t": [
+   "math",
+   "courses"
+  ],
+  "d": "Worked-example exam prep: math and chemistry"
+ },
+ "UC52kszkc08-acFOuogFl5jw": {
+  "t": [
+   "math",
+   "cs-theory",
+   "explains"
+  ],
+  "d": "Math, quantum computing and CS theory explainers"
+ },
+ "UCpCSAcbqs-sjEVfk_hMfY9w": {
+  "t": [
+   "math",
+   "explains"
+  ],
+  "d": "Math and engineering, with the academia inside joke"
+ },
+ "UCdp4_l1vPmpN-gDbUwhaRUQ": {
+  "t": [
+   "hardware",
+   "teardowns",
+   "explains"
+  ],
+  "d": "Teardowns of how devices are manufactured"
+ },
+ "UCQnMw9GGDS3xO6fN5oae-4w": {
+  "t": [
+   "design",
+   "hardware",
+   "interviews"
+  ],
+  "d": "Materials and design decisions, interrogated"
+ },
+ "UCOMrUmOTPD_AnSivjxptxpA": {
+  "t": [
+   "hardware",
+   "projects",
+   "engineering"
+  ],
+  "d": "Engineer builds: e-bikes, campers, restorations"
+ },
+ "UClZbmi9JzfnB2CEb0fG8iew": {
+  "t": [
+   "hardware",
+   "explains"
+  ],
+  "d": "Documentary explainers of obscure engineering"
+ },
+ "UCk0fGHsCEzGig-rSzkfCjMw": {
+  "t": [
+   "hardware",
+   "courses",
+   "explains"
+  ],
+  "d": "Electrical and electronics engineering, taught"
+ },
+ "UCD2chdqVN65MSM5igMZGbaw": {
+  "t": [
+   "programming",
+   "explains"
+  ],
+  "d": "Encodings, chess engines and how tools really work"
+ },
+ "UC9-y-6csu5WGm29I7JiwpnA": {
+  "t": [
+   "cs-theory",
+   "explains"
+  ],
+  "d": "University CS concepts, one idea per video"
+ },
+ "UCnxrdFPXJMeHru_b4Q_vTPQ": {
+  "t": [
+   "cs-theory",
+   "explains"
+  ],
+  "d": "Small histories of technology, animated"
+ },
+ "UCBa659QWEk1AI4Tg--mrJ2A": {
+  "t": [
+   "explains",
+   "cs-theory"
+  ],
+  "d": "One fact, well-researched, in five minutes"
+ },
+ "UClYDoTmBdnafBCHhnUCqvtw": {
+  "t": [
+   "space",
+   "explains"
+  ]
+ },
+ "UC3iXLabMi-9v7RDRDMyLvSQ": {
+  "t": [
+   "space"
+  ]
+ },
+ "UCLA_DiR1FfKNvjuUpBHmylQ": {
+  "t": [
+   "space",
+   "engineering"
+  ]
+ },
+ "UC7_gcs09iThXybpVgjHZ_7g": {
+  "t": [
+   "physics",
+   "space"
+  ]
+ },
+ "UCGRB1ZjIqAiaGwt-XLq9CnA": {
+  "t": [
+   "explains"
+  ]
+ },
+ "UCzWQYUVCpZqtN93H8RR44Qw": {
+  "t": [
+   "space",
+   "explains"
+  ]
+ },
+ "UCFbtcTaMFnOAP0pFO1L8hVw": {
+  "t": [
+   "physics",
+   "space"
+  ]
+ },
+ "UCiEHVhv0SBMpP75JbzJShqw": {
+  "t": [
+   "physics",
+   "courses"
+  ]
+ },
+ "UCUHW94eEFW7hkUMVaZz4eDg": {
+  "t": [
+   "physics",
+   "explains"
+  ]
+ },
+ "UC7DdEm33SyaTDtWYGO2CwdA": {
+  "t": [
+   "physics",
+   "builds"
+  ]
+ },
+ "UCNb9vykjjBoUh2EXfBQYR6g": {
+  "t": [
+   "physics"
+  ]
+ },
+ "UC6107grRI4m0o2-emgoDnAA": {
+  "t": [
+   "physics",
+   "engineering"
+  ]
+ },
+ "UCUK0HBIBWgM2c4vsPhkYY4w": {
+  "t": [
+   "engineering",
+   "visual"
+  ]
+ },
+ "UCHnyfMqiRRG1u-2MsSQLbXA": {
+  "t": [
+   "physics",
+   "explains"
+  ]
+ },
+ "UCC552Sd-3nyi_tk2BudLUzA": {
+  "t": [
+   "biology",
+   "explains"
+  ]
+ },
+ "UCdpHK9wCO75Pw7kxTfAxoEg": {
+  "t": [
+   "microscopy",
+   "biology"
+  ]
+ },
+ "UCxqAWLTk1CmBvZFPzeZMd9A": {
+  "t": [
+   "math",
+   "explains"
+  ]
+ },
+ "UCBbnbBWJtwsf0jLGUwX5Q3g": {
+  "t": [
+   "microscopy",
+   "biology"
+  ]
+ },
+ "UCeiYXex_fwgYDonaTcSIk6w": {
+  "t": [
+   "biology",
+   "explains"
+  ]
+ },
+ "UCbHJVeS0ZIco7FTTqhvDg6g": {
+  "t": [
+   "biology"
+  ]
+ },
+ "UCn4UedbiTeN96izf-CxEPbg": {
+  "t": [
+   "biology",
+   "microscopy"
+  ]
+ },
+ "UCGmfsRVSM9FG5VIoxEmn-DQ": {
+  "t": [
+   "microscopy"
+  ]
+ },
+ "UCBVY4zJr4qTXdPlMus1VxqA": {
+  "t": [
+   "chemistry"
+  ]
+ },
+ "UCUCB2ubLkz2t44rPmAc_xOg": {
+  "t": [
+   "chemistry"
+  ]
+ },
+ "UC415bOPUcGSamy543abLmRA": {
+  "t": [
+   "explains",
+   "news"
+  ]
+ },
+ "UCOT2iLov0V7Re7ku_3UBtcQ": {
+  "t": [
+   "explains"
+  ]
+ },
+ "UCsXVk37bltHxD1rDPwtNM8Q": {
+  "t": [
+   "explains"
+  ]
+ },
+ "UCTpmmkp1E4nmZqWPS-dl5bg": {
+  "t": [
+   "math",
+   "physics",
+   "biology"
+  ]
+ }
+}

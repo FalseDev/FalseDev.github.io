@@ -1,5 +1,6 @@
 ---
 title: My Resources
+meta: assets/channels.json
 ---
 
 # RSS feeds
