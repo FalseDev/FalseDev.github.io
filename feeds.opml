@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="2.0">
+<head>
+<title>FalseDev — RSS feeds</title>
+<dateCreated>Fri, 13 Nov 2026 10:57:49 -0000</dateCreated>
+</head>
+<body>
+<outline text="Rust" title="Rust">
+  <outline type="rss" text="This Week in Rust" title="This Week in Rust" xmlUrl="https://this-week-in-rust.org/rss.xml"/>
+  <outline type="rss" text="Rust Bytes" title="Rust Bytes" xmlUrl="https://weeklyrust.substack.com/feed"/>
+  <outline type="rss" text="Fasterthanlime" title="Fasterthanlime" xmlUrl="https://fasterthanli.me/index.xml#feed"/>
+  <outline type="rss" text="Kobzol&#x27;s blog" title="Kobzol&#x27;s blog" xmlUrl="https://kobzol.github.io/feed.xml"/>
+  <outline type="rss" text="Sylvain Kerkour" title="Sylvain Kerkour" xmlUrl="https://kerkour.com/feed.xml"/>
+  <outline type="rss" text="goose.love blog" title="goose.love blog" xmlUrl="https://blog.goose.love/index.xml#feed"/>
+  <outline type="rss" text="PurpleSynringa" title="PurpleSynringa" xmlUrl="https://purplesyringa.moe/blog/feed.rss"/>
+</outline>
+<outline text="Go" title="Go">
+  <outline type="rss" text="Golang Weekly" title="Golang Weekly" xmlUrl="https://golangweekly.com/rss/"/>
+</outline>
+<outline text="Databases" title="Databases">
+  <outline type="rss" text="Postgres Weekly" title="Postgres Weekly" xmlUrl="https://cprss.s3.amazonaws.com/postgresweekly.com.xml"/>
+  <outline type="rss" text="postgres.ai blog" title="postgres.ai blog" xmlUrl="https://postgres.ai/blog/rss.xml"/>
+  <outline type="rss" text="Haki Benita" title="Haki Benita" xmlUrl="https://hakibenita.com/feeds/all.atom.xml"/>
+  <outline type="rss" text="Andy Pavlo (CMU)" title="Andy Pavlo (CMU)" xmlUrl="https://www.cs.cmu.edu/~pavlo//blog/feed.xml"/>
+</outline>
+<outline text="Cloud, Infra &amp; Company Engineering" title="Cloud, Infra &amp; Company Engineering">
+  <outline type="rss" text="Cloudflare" title="Cloudflare" xmlUrl="https://blog.cloudflare.com/rss"/>
+  <outline type="rss" text="Kubernetes" title="Kubernetes" xmlUrl="https://kubernetes.io/feed.xml"/>
+  <outline type="rss" text="Netflix TechBlog" title="Netflix TechBlog" xmlUrl="https://netflixtechblog.com/feed"/>
+</outline>
+<outline text="Personal blogs" title="Personal blogs">
+  <outline type="rss" text="Xeiaso" title="Xeiaso" xmlUrl="https://xeiaso.net/blog.rss"/>
+  <outline type="rss" text="Jackson Gabbard" title="Jackson Gabbard" xmlUrl="https://jg.gg/feed/"/>
+  <outline type="rss" text="Jeremy Morrell" title="Jeremy Morrell" xmlUrl="https://jeremymorrell.dev/rss.xml"/>
+</outline>
+<outline text="Podcasts" title="Podcasts">
+  <outline type="rss" text="Self-Directed Research" title="Self-Directed Research" xmlUrl="https://sdr-podcast.com/podcast-feed-m4a.xml"/>
+</outline>
+</body>
+</opml>

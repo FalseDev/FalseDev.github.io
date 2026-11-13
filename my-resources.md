@@ -329,3 +329,48 @@ title: My Resources
 
 - [cpu.land](https://cpu.land)
 - [CS50](https://cs50.harvard.edu/)
+
+# RSS feeds
+
+Feeds I read, grouped by topic. The same list is importable as [feeds.opml](feeds.opml); how I read them is covered in [RSS Reader Setup](rss-setup.md).
+
+## Rust
+
+- [This Week in Rust](https://this-week-in-rust.org/rss.xml)
+- [Rust Bytes](https://weeklyrust.substack.com/feed)
+- [Fasterthanlime](https://fasterthanli.me/index.xml#feed)
+- [Kobzol's blog](https://kobzol.github.io/feed.xml)
+- [Sylvain Kerkour](https://kerkour.com/feed.xml)
+- [goose.love blog](https://blog.goose.love/index.xml#feed)
+- [PurpleSynringa](https://purplesyringa.moe/blog/feed.rss)
+
+## Go
+
+- [Golang Weekly](https://golangweekly.com/rss/)
+
+## Databases
+
+- [Postgres Weekly](https://cprss.s3.amazonaws.com/postgresweekly.com.xml)
+- [postgres.ai blog](https://postgres.ai/blog/rss.xml)
+- [Haki Benita](https://hakibenita.com/feeds/all.atom.xml)
+- [Andy Pavlo (CMU)](https://www.cs.cmu.edu/~pavlo//blog/feed.xml)
+
+## Cloud, Infra & Company Engineering
+
+- [Cloudflare](https://blog.cloudflare.com/rss)
+- [Kubernetes](https://kubernetes.io/feed.xml)
+- [Netflix TechBlog](https://netflixtechblog.com/feed)
+
+## Personal blogs
+
+- [Xeiaso](https://xeiaso.net/blog.rss)
+- [Jackson Gabbard](https://jg.gg/feed/)
+- [Jeremy Morrell](https://jeremymorrell.dev/rss.xml)
+
+## Podcasts
+
+- [Self-Directed Research](https://sdr-podcast.com/podcast-feed-m4a.xml)
+
+---
+
+← [Home](index.md) · [RSS Reader Setup](rss-setup.md)
