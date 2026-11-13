@@ -13,5 +13,3 @@ Notes, lists and setups I keep in public.
   mobile, OPML import, following YouTube channels over RSS, newsletters without an inbox.
 
 Feeds as a single importable file: **[feeds.opml](feeds.opml)**.
-
-Older notes live in [random-pages](https://github.com/FalseDev/random-pages).

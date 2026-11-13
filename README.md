@@ -7,5 +7,3 @@ Source of [falsedev.github.io](https://falsedev.github.io), built with Jekyll an
 - **[Science Channels](science-channels.md)** — the science half of the subscription list
 - **[RSS Reader Setup](rss-setup.md)** — how all of it gets read
 - **[feeds.opml](feeds.opml)** — the feed list as one importable file
-
-Older notes: [random-pages](https://github.com/FalseDev/random-pages).
