@@ -3,3 +3,6 @@ _site/
 .jekyll-metadata
 .sass-cache/
 vendor/
+
+# local review list, deliberately not published
+excluded-channels.md
