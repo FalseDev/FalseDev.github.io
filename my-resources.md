@@ -26,7 +26,7 @@ title: My Resources
 - [Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)
 - [Jacob Pradels](https://www.youtube.com/channel/UCwEEjrUYHDyQsYPTQdNVacg)
 - [Jarvis Johnson](https://www.youtube.com/channel/UCoLUji8TYrgDy74_iiazvYA)
-- [Jarvis Johnson Tech [Inactive]](https://www.youtube.com/channel/UCdjWvAZC4FXaOI9_puALhTg)
+- [Jarvis Johnson Tech \[Inactive\]](https://www.youtube.com/channel/UCdjWvAZC4FXaOI9_puALhTg)
 - [Lewis's Tech](https://www.youtube.com/channel/UCLZxPVkEvf9XuifStuHK_gA)
 - [Linus Tech Tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw)
 - [Lubalin](https://www.youtube.com/channel/UC8-6D57Us7J6JgGfiAzVl5A)
