@@ -17,9 +17,9 @@ want to read instead of a feed deciding for you.
 Pick one reader and use it everywhere — the reader matters less than the sync.
 
 - **In your browser already**: Vivaldi has a built-in feed reader (open the Feeds panel, then use
-  its import/export option); Firefox and Thunderbird cover mail and feeds in one place.
-- **Desktop, minimal**: NetNewsWire (macOS/iOS, free and open source), Feedy or ReadKit (macOS),
-  Newsboat (terminal, great over SSH), quiteRSS (Windows).
+  its import/export option); Thunderbird covers mail and feeds in one place.
+- **Desktop, minimal**: NetNewsWire (macOS/iOS, free and open source), ReadKit (macOS),
+  QuiteRSS (Windows/Linux), Newsboat (terminal, great over SSH).
 - **Mobile**: NetNewsWire or Reeder (iOS); Read You or FeedMe (Android); both work with a
   self-hosted server too.
 - **Self-hosted web**: Miniflux (single binary, no-frills) or FreshRSS (PHP, richer UI, good
@@ -32,8 +32,8 @@ Pick one reader and use it everywhere — the reader matters less than the sync.
 Every reader speaks OPML, so switching readers is a five-second job:
 
 1. Export OPML from the old reader (Vivaldi: Feeds panel → import/export).
-2. Import it in the new one (NetNewsWire: File → Import; Miniflux: Integrations → Import;
-   FreshRSS: Administration → Subscriptions → Import; Newsboat: add an `urls-file`).
+2. Import it in the new one (NetNewsWire: File → Import; Miniflux: Settings → Feeds → Import;
+   FreshRSS: Administration → Subscriptions → Import; Newsboat: point `urls-file` at it).
 3. Group feeds into folders by topic, not by site, so a folder becomes a reading session.
 
 ## Following YouTube channels over RSS
