@@ -258,16 +258,22 @@
         });
       }
 
-      [].slice.call(main.querySelectorAll("h1")).forEach(function (h) {
-        var n = h.nextElementSibling, hits = 0, blocks = [];
-        while (n && n.tagName !== "H1") {
-          if (n.tagName === "UL") hits += n.querySelectorAll("li:not(.hidden):not(.sitehead)").length;
-          blocks.push(n); n = n.nextElementSibling;
-        }
-        var empty = (state.tags.length || state.q) ? hits === 0 : false;
-        h.classList.toggle("hidden", empty);
-        blocks.forEach(function (b) { b.classList.toggle("hidden", empty); });
-      });
+      // collapse empty sections: h1 first, then h2, so a sub-heading's own empty
+      // state is the last word on its blocks
+      function collapse(level) {
+        [].slice.call(main.querySelectorAll(level)).forEach(function (h) {
+          var n = h.nextElementSibling, hits = 0, blocks = [];
+          while (n && n.tagName !== "H1" && !(level === "h2" && n.tagName === "H2")) {
+            if (n.tagName === "UL") hits += n.querySelectorAll("li:not(.hidden):not(.sitehead)").length;
+            blocks.push(n); n = n.nextElementSibling;
+          }
+          var empty = (state.tags.length || state.q) ? hits === 0 : false;
+          h.classList.toggle("hidden", empty);
+          blocks.forEach(function (b) { b.classList.toggle("hidden", empty); });
+        });
+      }
+      collapse("h1");
+      collapse("h2");
 
       var none = bar.querySelector(".tagnone");
       if (!shown && (state.tags.length || state.q)) {
