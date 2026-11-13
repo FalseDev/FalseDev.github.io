@@ -324,4 +324,4 @@ Feeds I read, grouped by topic. The same list is importable as [feeds.opml](feed
 
 ---
 
-← [Home](index.md) · [RSS Reader Setup](rss-setup.md)
+← [Home](index.md) · [RSS Reader Setup](rss-setup.md) · [Science Channels](science-channels.md)
