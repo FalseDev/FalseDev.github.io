@@ -484,15 +484,6 @@
   "s": "kubernetes.io",
   "dt": "2026-08-28"
  },
- "https://kerkour.com/avif-failure": {
-  "t": [
-   "images",
-   "file-formats",
-   "personal"
-  ],
-  "s": "kerkour.com",
-  "dt": "2026-08-25"
- },
  "https://kerkour.com/rust-scalable-backend-services": {
   "t": [
    "rust",

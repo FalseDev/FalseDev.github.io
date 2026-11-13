@@ -128,12 +128,6 @@ Every tag on [Tech Reading](tech-reading.md) with the posts under it.
 - [When to choose x86-64 vs aarch64](https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64) — planetscale.com · 2026-10-10
 - [Cloudflare's eBPF Replatforming Part 1: The eBPF Pivot](https://ebpf.io/blog/cloudflare-replatforming-1) — ebpf.io · 2026-10-07
 
-## personal (3)
-
-- [Continuous Learning](https://kerkour.com/continuous-learning) — kerkour.com · 2026-09-23
-- [Failure of the week: encoding images to AVIF without keeping the originals](https://kerkour.com/avif-failure) — kerkour.com · 2026-08-25
-- [2025 Recap: so many projects](https://fasterthanli.me/articles/2025-recap) — fasterthanli.me · 2026-08-23
-
 ## postgres (3)
 
 - [Postgres Weekly #666: Postgres 19's bumpy road to release](https://postgresweekly.com/issues/666) — postgresweekly.com · 2026-09-27
@@ -185,6 +179,11 @@ Every tag on [Tech Reading](tech-reading.md) with the posts under it.
 
 - [All code will converge on Rust](https://mainmatter.com/blog/2026/10/08/all-code-will-converge-on-rust/) — mainmatter.com · 2026-10-16
 - [Don't call yourself an artisanal programmer](https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer) — purplesyringa.moe · 2026-09-15
+
+## personal (2)
+
+- [Continuous Learning](https://kerkour.com/continuous-learning) — kerkour.com · 2026-09-23
+- [2025 Recap: so many projects](https://fasterthanli.me/articles/2025-recap) — fasterthanli.me · 2026-08-23
 
 ## programming (2)
 
@@ -264,10 +263,6 @@ Every tag on [Tech Reading](tech-reading.md) with the posts under it.
 
 - [A practical guide to error handling in Go](https://datadoghq.com/blog/go-error-handling) — datadoghq.com · 2026-10-06
 
-## file-formats (1)
-
-- [Failure of the week: encoding images to AVIF without keeping the originals](https://kerkour.com/avif-failure) — kerkour.com · 2026-08-25
-
 ## frontend (1)
 
 - [Turbopack: High-performance bundler for React & TypeScript](https://vercel.com/blog/turbopack) — vercel.com · 2026-09-01
@@ -291,10 +286,6 @@ Every tag on [Tech Reading](tech-reading.md) with the posts under it.
 ## hardware (1)
 
 - [Microcontrollers with good support for Rust](https://kerkour.com/rust-microcontrollers) — kerkour.com · 2026-09-13
-
-## images (1)
-
-- [Failure of the week: encoding images to AVIF without keeping the originals](https://kerkour.com/avif-failure) — kerkour.com · 2026-08-25
 
 ## javascript (1)
 

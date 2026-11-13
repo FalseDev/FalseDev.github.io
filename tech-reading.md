@@ -66,7 +66,6 @@ Filter by tag, or switch the order between newest first and grouped by site. Wit
 - [Rust concurrency vs Go concurrency: stackless vs stackful coroutines](https://kerkour.com/rust-vs-go-concurrency) <span class="site">— kerkour.com</span> · 2026-09-05
 - [Turbopack: High-performance bundler for React & TypeScript](https://vercel.com/blog/turbopack) <span class="site">— vercel.com</span> · 2026-09-01
 - [Kubernetes v1.37: Metrics API graduates to stable](https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/) <span class="site">— kubernetes.io</span> · 2026-08-28
-- [Failure of the week: encoding images to AVIF without keeping the originals](https://kerkour.com/avif-failure) <span class="site">— kerkour.com</span> · 2026-08-25
 - [Building scalable backend services with Rust and PostgreSQL](https://kerkour.com/rust-scalable-backend-services) <span class="site">— kerkour.com</span> · 2026-08-25
 - [2025 Recap: so many projects](https://fasterthanli.me/articles/2025-recap) <span class="site">— fasterthanli.me</span> · 2026-08-23
 - [Bash Strict Mode: set -euo pipefail explained](https://linuxize.com/post/bash-strict-mode) <span class="site">— linuxize.com</span> · 2026-08-19
