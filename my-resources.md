@@ -315,13 +315,6 @@ Feeds I read, grouped by topic. The same list is importable as [feeds.opml](feed
 - [Simply Explained](https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ)
 - [Tom Scott](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A)
 
-# Language & Self-Development
-
-- [Ali Abdaal](https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg)
-- [Hybrid Calisthenics](https://www.youtube.com/channel/UCeJFgNahi--FKs0oJyeRDEw)
-- [Joseph Tsar](https://www.youtube.com/channel/UCSvoBOtMz9AWVpk84XgVOeA)
-- [NihongoDekita with Sayaka](https://www.youtube.com/channel/UC7ETROycjsuo49xkneiX6MA)
-
 ---
 
 ← [Home](index.md) · [RSS Reader Setup](rss-setup.md) · [Science Channels](science-channels.md)
