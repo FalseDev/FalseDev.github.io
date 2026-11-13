@@ -10,3 +10,5 @@ excluded-channels.md
 # local history analysis, never publish
 blogs-read.md
 browsing-history.txt
+blogs-read-tech.json
+blogs-read-non-tech.json

@@ -1,0 +1,71 @@
+/* Tag filter + hover preview, on top of the slate theme.
+   Slate paints the content area light: #main_content_wrap is #f2f2f2, body text
+   #373737, links #0F79D0. Everything here is picked against that, and every
+   foreground/background pair below clears 4.5:1. */
+.hidden { display: none !important; }
+
+.tagbar {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  background: #ffffff;
+  border: 1px solid #cfd4d9;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12);
+  padding: 12px 14px;
+  margin: 0 0 24px;
+}
+.tagbar-head { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 10px; }
+.tagbar-head strong { font-size: 15px; color: #1a1a1a; }
+.tagsearch {
+  background: #fff; color: #1a1a1a; border: 1px solid #b9c0c7;
+  padding: 5px 8px; min-width: 190px; font-size: 14px;
+}
+.tagsearch:focus { outline: 2px solid #0b5c9e; outline-offset: 1px; }
+.tagmode { font-size: 13px; color: #33383d; }
+.tagmode input { accent-color: #0b5c9e; }
+.tagclear, .chip {
+  background: #eef1f4; color: #23282d; border: 1px solid #b9c0c7;
+  padding: 3px 8px; font-size: 12.5px; cursor: pointer;
+}
+.tagclear:hover, .chip:hover { border-color: #0b5c9e; color: #0b5c9e; }
+.chip.on, .tagclear.on {
+  background: #0b5c9e; border-color: #0b5c9e; color: #ffffff;
+}
+.tagsort { display: inline-flex; }
+.sortbtn { background: #eef1f4; color: #23282d; border: 1px solid #b9c0c7; padding: 3px 9px; font-size: 12.5px; cursor: pointer; }
+.sortbtn + .sortbtn { border-left: none; }
+.sortbtn.on { background: #0b5c9e; border-color: #0b5c9e; color: #fff; }
+.tagcount { font-size: 12.5px; color: #4a5158; margin-left: auto; }
+.tagcloud { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.tagmore { display: inline-flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.tagmore summary { cursor: pointer; font-size: 12.5px; color: #0b5c9e; padding: 3px 6px; border: 1px dashed #b9c0c7; list-style: none; }
+.tagmore summary:hover { border-color: #0b5c9e; }
+.tagmore[open] summary { margin-right: 4px; }
+.chip.inline { margin-left: 5px; font-size: 11px; padding: 1px 6px; background: #f6f7f9; color: #454c53; }
+.chip.inline:hover { color: #0b5c9e; }
+.tagnone { margin: 8px 0 0; font-size: 13.5px; color: #33383d; }
+
+.hovercard {
+  position: fixed; z-index: 40; width: 330px; background: #ffffff;
+  border: 1px solid #8f979f; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.18), 0 10px 28px rgba(0, 0, 0, 0.32);
+  padding: 10px 12px; pointer-events: none; color: #23282d;
+}
+.hovercard img { width: 100%; height: auto; aspect-ratio: 320 / 180; display: block; margin-bottom: 8px; border: 1px solid #b9c0c7; background: #eef1f4; }
+.hovercard .nothumb { display: block; width: 100%; height: 120px; border: 1px dashed #b9c0c7; background: #f6f7f9; color: #6b7078;
+  font-size: 12px; line-height: 120px; text-align: center; margin-bottom: 8px; }
+.hovercard h3 { margin: 0 0 4px; font-size: 15px; color: #111417; }
+.hovercard p { margin: 0 0 6px; font-size: 13px; line-height: 1.4; color: #23282d; }
+.hoverlatest { color: #4a5158; font-style: italic; }
+.hovertags { color: #0b5c9e; font-size: 12px; }
+li.sitehead { list-style: none; margin: 18px 0 6px; font-size: 15px; font-weight: bold; color: #111417;
+  border-bottom: 1px solid #cfd4d9; padding-bottom: 3px; }
+li.sitehead .sitecount { font-weight: normal; font-size: 12px; color: #4a5158; margin-left: 6px;
+  border: 1px solid #cfd4d9; padding: 0 5px; }
+body.by-site .site { display: none; }
+a.meta-linked { border-bottom: 1px dotted rgba(11, 92, 158, 0.55); }
+
+.preview-note {
+  border-left: 4px solid #0b5c9e; background: #e9f1f8; color: #1a1a1a;
+  padding: 10px 14px; margin: 0 0 22px; font-size: 14px;
+}
+.preview-note a { color: #0b5c9e; }

@@ -9,6 +9,7 @@ Notes, lists and setups I keep in public.
   security, AI, game dev, math and engineering. Science has its own page, linked below.
 - **[Science Channels](science-channels.md)** — the science side of my subscriptions, kept on its
   own page: astronomy, physics, microscopy and biology, science journalism.
+- **[Tech Reading](tech-reading.md)** — technical blog posts I read, filterable by tag and by site
 - **[RSS Reader Setup](rss-setup.md)** — how all of that gets read: readers for desktop and
   mobile, OPML import, following YouTube channels over RSS, newsletters without an inbox.
 

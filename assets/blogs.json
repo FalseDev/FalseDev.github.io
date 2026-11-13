@@ -1,0 +1,533 @@
+{
+ "https://smallcultfollowing.com/babysteps/blog/2015-12-18/rayon-data-parallelism-in-rust/": {
+  "t": [
+   "rust",
+   "parallelism",
+   "open-source"
+  ],
+  "s": "smallcultfollowing.com",
+  "dt": "2026-11-13"
+ },
+ "https://internals-for-interns.com/posts/understanding-go-runtime/": {
+  "t": [
+   "go",
+   "runtime",
+   "systems"
+  ],
+  "s": "internals-for-interns.com",
+  "dt": "2026-11-13"
+ },
+ "https://www.twilio.com/en-us/blog/insights/email-bounce-management": {
+  "t": [
+   "email",
+   "devops"
+  ],
+  "s": "twilio.com",
+  "dt": "2026-11-12"
+ },
+ "https://kerkour.com/cybersecurity-apocalypse": {
+  "t": [
+   "security",
+   "ai"
+  ],
+  "s": "kerkour.com",
+  "dt": "2026-11-08"
+ },
+ "https://wails.io/blog/wails-v3-1-released/": {
+  "t": [
+   "go",
+   "gui",
+   "release"
+  ],
+  "s": "wails.io",
+  "dt": "2026-11-07"
+ },
+ "https://lwn.net/Articles/1099606/": {
+  "t": [
+   "rust",
+   "news"
+  ],
+  "s": "lwn.net",
+  "dt": "2026-11-07"
+ },
+ "https://golangweekly.com/issues/622": {
+  "t": [
+   "go",
+   "newsletter"
+  ],
+  "s": "golangweekly.com",
+  "dt": "2026-11-07"
+ },
+ "https://antonz.org/go-concurrency-distilled/": {
+  "t": [
+   "go",
+   "concurrency"
+  ],
+  "s": "antonz.org",
+  "dt": "2026-11-07"
+ },
+ "https://wails.io/blog/wails-v3-released/": {
+  "t": [
+   "go",
+   "gui",
+   "release"
+  ],
+  "s": "wails.io",
+  "dt": "2026-11-06"
+ },
+ "https://this-week-in-rust.org/blog/2026-11-04/this-week-in-rust-676/": {
+  "t": [
+   "rust",
+   "newsletter"
+  ],
+  "s": "this-week-in-rust.org",
+  "dt": "2026-11-06"
+ },
+ "https://flutter.dev/blog/keys-what-are-they-good-for": {
+  "t": [
+   "flutter",
+   "widgets"
+  ],
+  "s": "flutter.dev",
+  "dt": "2026-11-04"
+ },
+ "https://kerkour.com/rust-crdt-love": {
+  "t": [
+   "rust",
+   "crdt",
+   "distributed-systems",
+   "encryption"
+  ],
+  "s": "kerkour.com",
+  "dt": "2026-11-03"
+ },
+ "https://this-week-in-rust.org/blog/2026-10-28/this-week-in-rust-675/": {
+  "t": [
+   "rust",
+   "newsletter"
+  ],
+  "s": "this-week-in-rust.org",
+  "dt": "2026-10-29"
+ },
+ "https://this-week-in-rust.org/blog/2026-10-21/this-week-in-rust-674/": {
+  "t": [
+   "rust",
+   "newsletter"
+  ],
+  "s": "this-week-in-rust.org",
+  "dt": "2026-10-23"
+ },
+ "https://kerkour.com/rust-at-cloudflare": {
+  "t": [
+   "rust",
+   "news"
+  ],
+  "s": "kerkour.com",
+  "dt": "2026-10-23"
+ },
+ "https://golangweekly.com/issues/621": {
+  "t": [
+   "go",
+   "newsletter"
+  ],
+  "s": "golangweekly.com",
+  "dt": "2026-10-23"
+ },
+ "https://simpmusic.org/blogs/how-to-log-in-on-desktop-app": {
+  "t": [
+   "tutorial",
+   "music",
+   "app-support"
+  ],
+  "s": "simpmusic.org",
+  "dt": "2026-10-20"
+ },
+ "https://explainx.ai/blog/manimgx-agent-animation-engine-rust-gpu-guide-2026": {
+  "t": [
+   "animation",
+   "rust",
+   "gpu"
+  ],
+  "s": "explainx.ai",
+  "dt": "2026-10-18"
+ },
+ "https://hotpath.rs/blog/rust-performance-grafana": {
+  "t": [
+   "rust",
+   "observability",
+   "performance"
+  ],
+  "s": "hotpath.rs",
+  "dt": "2026-10-17"
+ },
+ "https://this-week-in-rust.org/blog/2026-10-14/this-week-in-rust-673/": {
+  "t": [
+   "rust",
+   "newsletter"
+  ],
+  "s": "this-week-in-rust.org",
+  "dt": "2026-10-16"
+ },
+ "https://otto.de/jobs/en/blogs/techblog/rust-migration-lambdas-microservices": {
+  "t": [
+   "rust",
+   "migration",
+   "backend"
+  ],
+  "s": "otto.de",
+  "dt": "2026-10-16"
+ },
+ "https://mainmatter.com/blog/2026-10-08/all-code-will-converge-on-rust": {
+  "t": [
+   "rust",
+   "opinion"
+  ],
+  "s": "mainmatter.com",
+  "dt": "2026-10-16"
+ },
+ "https://tigrisdata.com/blog/objgit-packfiles": {
+  "t": [
+   "git",
+   "storage",
+   "infrastructure"
+  ],
+  "s": "tigrisdata.com",
+  "dt": "2026-10-12"
+ },
+ "https://planetscale.com/blog/when-to-choose-x86-64-vs-aarch64": {
+  "t": [
+   "architecture",
+   "performance",
+   "infrastructure"
+  ],
+  "s": "planetscale.com",
+  "dt": "2026-10-10"
+ },
+ "https://kerkour.com/rust-techempower-benchmarks": {
+  "t": [
+   "rust",
+   "benchmarks",
+   "performance"
+  ],
+  "s": "kerkour.com",
+  "dt": "2026-10-10"
+ },
+ "https://buf.build/blog/connect-go-v2": {
+  "t": [
+   "go",
+   "grpc",
+   "release"
+  ],
+  "s": "buf.build",
+  "dt": "2026-10-10"
+ },
+ "https://opentofu.org/blog/opentofu-1-13-0": {
+  "t": [
+   "terraform",
+   "devops",
+   "release"
+  ],
+  "s": "opentofu.org",
+  "dt": "2026-10-09"
+ },
+ "https://rustfoundation.org/media/a-fond-farewell-to-three-rust-foundation-colleagues": {
+  "t": [
+   "rust",
+   "community"
+  ],
+  "s": "rustfoundation.org",
+  "dt": "2026-10-08"
+ },
+ "https://rust-trends.com/newsletter/google-puts-agents-on-the-rust-rewrite": {
+  "t": [
+   "rust",
+   "newsletter"
+  ],
+  "s": "rust-trends.com",
+  "dt": "2026-10-08"
+ },
+ "https://kubernetes.io/blog/2026-10-06/kubernetes-cgroups-v2-shift": {
+  "t": [
+   "kubernetes",
+   "linux"
+  ],
+  "s": "kubernetes.io",
+  "dt": "2026-10-07"
+ },
+ "https://ebpf.io/blog/cloudflare-replatforming-1": {
+  "t": [
+   "ebpf",
+   "networking",
+   "infrastructure"
+  ],
+  "s": "ebpf.io",
+  "dt": "2026-10-07"
+ },
+ "https://datadoghq.com/blog/go-error-handling": {
+  "t": [
+   "go",
+   "error-handling"
+  ],
+  "s": "datadoghq.com",
+  "dt": "2026-10-06"
+ },
+ "https://tokio.rs/blog/2026-09-24-topcoat-server-applications": {
+  "t": [
+   "rust",
+   "tokio",
+   "backend"
+  ],
+  "s": "tokio.rs",
+  "dt": "2026-10-04"
+ },
+ "https://jochen.fyi/posts/how-do-you-stop-being-a-rust-novice": {
+  "t": [
+   "rust",
+   "career",
+   "learning"
+  ],
+  "s": "jochen.fyi",
+  "dt": "2026-10-04"
+ },
+ "https://kubernetes.io/blog/2026-09-22/sig-apps-spotlight": {
+  "t": [
+   "kubernetes",
+   "community"
+  ],
+  "s": "kubernetes.io",
+  "dt": "2026-09-29"
+ },
+ "https://freecodecamp.org/news/how-to-build-an-internal-developer-platform-a-complete-guide-to-backstage-argocd-and-crossplane": {
+  "t": [
+   "devops",
+   "platform-engineering",
+   "kubernetes",
+   "tutorial"
+  ],
+  "s": "freecodecamp.org",
+  "dt": "2026-09-28"
+ },
+ "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft": {
+  "t": [
+   "rust",
+   "news"
+  ],
+  "s": "rustfoundation.org",
+  "dt": "2026-09-27"
+ },
+ "https://postgresweekly.com/issues/666": {
+  "t": [
+   "postgres",
+   "newsletter"
+  ],
+  "s": "postgresweekly.com",
+  "dt": "2026-09-27"
+ },
+ "https://pgedge.com/blog/looking-forward-to-postgres-19-epilogue": {
+  "t": [
+   "postgres",
+   "news"
+  ],
+  "s": "pgedge.com",
+  "dt": "2026-09-27"
+ },
+ "https://kerkour.com/continuous-learning": {
+  "t": [
+   "career",
+   "learning",
+   "personal"
+  ],
+  "s": "kerkour.com",
+  "dt": "2026-09-23"
+ },
+ "https://pola.rs/posts/benchmarks": {
+  "t": [
+   "polars",
+   "performance",
+   "data-engineering"
+  ],
+  "s": "pola.rs",
+  "dt": "2026-09-22"
+ },
+ "https://kubernetes.io/blog/2026-09-21/kubernetes-v1-37-pvc-last-used-time": {
+  "t": [
+   "kubernetes",
+   "storage"
+  ],
+  "s": "kubernetes.io",
+  "dt": "2026-09-22"
+ },
+ "https://rune.build/blog/rune-is-now-open-source": {
+  "t": [
+   "programming-languages",
+   "open-source",
+   "release"
+  ],
+  "s": "rune.build",
+  "dt": "2026-09-19"
+ },
+ "https://golangweekly.com/issues/618": {
+  "t": [
+   "go",
+   "newsletter"
+  ],
+  "s": "golangweekly.com",
+  "dt": "2026-09-19"
+ },
+ "https://rust-trends.com/newsletter/even-the-linker-is-getting-rewritten-in-rust": {
+  "t": [
+   "rust",
+   "newsletter"
+  ],
+  "s": "rust-trends.com",
+  "dt": "2026-09-18"
+ },
+ "https://kubernetes.io/blog/2026-09-15/kubernetes-v1-37-pod-level-resource-managers-beta": {
+  "t": [
+   "kubernetes",
+   "release"
+  ],
+  "s": "kubernetes.io",
+  "dt": "2026-09-17"
+ },
+ "https://kubernetes.io/blog/2025-09-22/kubernetes-v1-34-pod-level-resources": {
+  "t": [
+   "kubernetes"
+  ],
+  "s": "kubernetes.io",
+  "dt": "2026-09-17"
+ },
+ "https://kerkour.com/rust-generics": {
+  "t": [
+   "rust",
+   "generics"
+  ],
+  "s": "kerkour.com",
+  "dt": "2026-09-16"
+ },
+ "https://flutter.dev/blog/progress-of-the-flutter-package-ecosystem": {
+  "t": [
+   "flutter",
+   "ecosystem"
+  ],
+  "s": "flutter.dev",
+  "dt": "2026-09-16"
+ },
+ "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer": {
+  "t": [
+   "programming",
+   "career",
+   "opinion"
+  ],
+  "s": "purplesyringa.moe",
+  "dt": "2026-09-15"
+ },
+ "https://golangweekly.com/issues/617": {
+  "t": [
+   "go",
+   "newsletter"
+  ],
+  "s": "golangweekly.com",
+  "dt": "2026-09-15"
+ },
+ "https://kerkour.com/rust-microcontrollers": {
+  "t": [
+   "rust",
+   "embedded",
+   "hardware"
+  ],
+  "s": "kerkour.com",
+  "dt": "2026-09-13"
+ },
+ "https://vivaldi.com/blog/vivaldi-on-desktop-8-2": {
+  "t": [
+   "browser",
+   "release"
+  ],
+  "s": "vivaldi.com",
+  "dt": "2026-09-10"
+ },
+ "https://tapoueh.org/blog/2026/08/introducing-sqlfmt-an-sql-gofmt-style-formatter": {
+  "t": [
+   "sql",
+   "developer-tools",
+   "go"
+  ],
+  "s": "tapoueh.org",
+  "dt": "2026-09-05"
+ },
+ "https://kerkour.com/rust-vs-go-concurrency": {
+  "t": [
+   "rust",
+   "go",
+   "concurrency"
+  ],
+  "s": "kerkour.com",
+  "dt": "2026-09-05"
+ },
+ "https://vercel.com/blog/turbopack": {
+  "t": [
+   "javascript",
+   "frontend",
+   "build-tools",
+   "performance"
+  ],
+  "s": "vercel.com",
+  "dt": "2026-09-01"
+ },
+ "https://kubernetes.io/blog/2026-08-27/kubernetes-v1-37-metrics-api-ga": {
+  "t": [
+   "kubernetes",
+   "observability",
+   "release"
+  ],
+  "s": "kubernetes.io",
+  "dt": "2026-08-28"
+ },
+ "https://kerkour.com/avif-failure": {
+  "t": [
+   "images",
+   "file-formats",
+   "personal"
+  ],
+  "s": "kerkour.com",
+  "dt": "2026-08-25"
+ },
+ "https://kerkour.com/rust-scalable-backend-services": {
+  "t": [
+   "rust",
+   "postgres",
+   "backend",
+   "architecture"
+  ],
+  "s": "kerkour.com",
+  "dt": "2026-08-25"
+ },
+ "https://fasterthanli.me/articles/2025-recap": {
+  "t": [
+   "rust",
+   "programming",
+   "personal"
+  ],
+  "s": "fasterthanli.me",
+  "dt": "2026-08-23"
+ },
+ "https://linuxize.com/post/bash-strict-mode": {
+  "t": [
+   "bash",
+   "shell",
+   "devops",
+   "tutorial"
+  ],
+  "s": "linuxize.com",
+  "dt": "2026-08-19"
+ },
+ "https://flutter.dev/blog/whats-new-in-flutter-3-47": {
+  "t": [
+   "flutter",
+   "release"
+  ],
+  "s": "flutter.dev",
+  "dt": "2026-08-18"
+ }
+}
