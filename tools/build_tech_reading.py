@@ -40,9 +40,8 @@ for p in posts:
     for t in p["tags"]:
         tags[t] = tags.get(t, 0) + 1
 
-body.append(f"{len(posts)} technical posts, {len(sites)} sites, {min(p['date'] for p in posts)} to "
-            f"{max(p['date'] for p in posts)}. Filter by tag, or switch the order between newest "
-            f"first and grouped by site. Without JavaScript: [{TAG_INDEX.replace('-', ' ').title()}]({TAG_INDEX}.md).")
+body.append(f"Filter by tag, or switch the order between newest first and grouped by site. "
+            f"Without JavaScript: [{TAG_INDEX.replace('-', ' ').title()}]({TAG_INDEX}.md).")
 body.append("")
 body.append("# Posts")
 body.append("")
@@ -55,7 +54,7 @@ body += ["", "---", "", "← [Home](index.md) · [My Resources](my-resources.md)
 
 # ---------------- tag index: plain links, no JavaScript needed ----------------
 idx = ["---", "title: Tech Reading — Tag Index", "---", ""]
-idx.append(f"Every tag on [Tech Reading](tech-reading.md) with the posts under it. {len(tags)} tags.")
+idx.append("Every tag on [Tech Reading](tech-reading.md) with the posts under it.")
 idx.append("")
 for t in sorted(tags, key=lambda x: (-tags[x], x)):
     idx.append(f"## {t} ({tags[t]})")

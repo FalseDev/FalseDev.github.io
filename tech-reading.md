@@ -5,7 +5,7 @@ order: chrono,site
 group: site
 ---
 
-62 technical posts, 37 sites, 2026-08-18 to 2026-11-13. Filter by tag, or switch the order between newest first and grouped by site. Without JavaScript: [Tech Reading Tags](tech-reading-tags.md).
+Filter by tag, or switch the order between newest first and grouped by site. Without JavaScript: [Tech Reading Tags](tech-reading-tags.md).
 
 # Posts
 

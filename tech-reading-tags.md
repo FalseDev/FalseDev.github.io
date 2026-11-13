@@ -2,7 +2,7 @@
 title: Tech Reading — Tag Index
 ---
 
-Every tag on [Tech Reading](tech-reading.md) with the posts under it. 67 tags.
+Every tag on [Tech Reading](tech-reading.md) with the posts under it.
 
 ## rust (24)
 
